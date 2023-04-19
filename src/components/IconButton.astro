@@ -1,0 +1,19 @@
+---
+import { Icon } from "astro-icon";
+import type { HTMLAttributes } from "astro/types";
+
+type Props = { icon: string } & HTMLAttributes<"button">;
+
+const { icon, ...props } = Astro.props;
+---
+
+<button class="w-full" {...props}>
+    <div class="flex flex-col items-center justify-center">
+        <div class="relative  text-black-100 font-thin weight h-8 w-8" >
+            <Icon name={icon} />
+        </div>
+        <div>
+            <slot />
+        </div>
+    </div>
+</button>
