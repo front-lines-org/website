@@ -24,7 +24,7 @@ import { Icon } from "astro-icon";
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
   </head>
-  <body>
+  <body class="sm:container sm:mx-auto">
     <div class="mx-auto mt-5 max-w-7xl">
       <!-- Top header bit -->
       <div class="mt-8 flex place-content-between place-items-baseline mb-3">
@@ -35,51 +35,51 @@ import { Icon } from "astro-icon";
         <div class="justify-self-end h-full content-baseline flex gap-2">
           <div class="h-full content-baseline flex gap-2 mt-auto">
             <button class="btn btn-sm btn-outline rounded-full normal-case"
-              >Log in</button
+              >Login</button
             >
             <button
               class="btn btn-sm btn-primary rounded-full text-white normal-case"
-              >Abonnneren vanaf 2,- per week</button
+              >Subscribe</button
             >
           </div>
-          <div class="h-full flex gap-5 ml-3">
-            <IconButton icon="ic:baseline-search">Zoeken</IconButton>
-            <IconButton icon="mdi:newspaper-variant-outline">Editie</IconButton>
-            <IconButton icon="ic:outline-person">Instellingen</IconButton>
+          <div class="h-full gap-5 ml-3 text-sm md:flex hidden">
+            <IconButton icon="ic:baseline-search">Search</IconButton>
+            <IconButton icon="mdi:newspaper-variant-outline">Edition</IconButton>
+            <IconButton icon="ic:outline-person">Settings</IconButton>
           </div>
         </div>
       </div>
       <!-- End top header bit -->
 
       <!-- Start with tabs -->
-      <div class="tabs border-y-2 overflow-x-auto">
-        <label class="tab tab-bordered border-b-0"
+      <div class="tabs border-y-2 overflow-x-auto whitespace-nowrap flex-nowrap">
+        <label class="tab tab-bordered border-b-0 "
           ><div>
             <Icon class="h-4 w-4" name="ic:baseline-format-list-bulleted" />
           </div></label
         >
-        <a class="tab tab-bordered tab-active">Voorpagina</a>
+        <a class="tab tab-bordered tab-active">Frontpage</a>
         <a class="tab tab-bordered border-b-0">Columns</a>
-        <a class="tab tab-bordered border-b-0">Topverhalen vandaag</a>
-        <a class="tab tab-bordered border-b-0">Opinie</a>
-        <a class="tab tab-bordered border-b-0">Cultuur & Media</a>
-        <a class="tab tab-bordered border-b-0">Podcasts</a>
-        <a class="tab tab-bordered border-b-0">Beter Leven</a>
-        <a class="tab tab-bordered border-b-0">Foto</a>
-        <a class="tab tab-bordered border-b-0">Wetenschap</a>
-        <a class="tab tab-bordered border-b-0">Economie</a>
-        <a class="tab tab-bordered border-b-0">Sport</a>
-        <a class="tab tab-bordered border-b-0">Puzzels</a>
+        <a class="tab tab-bordered border-b-0">Ukraine</a>
+        <a class="tab tab-bordered border-b-0">Africa</a>
+        <a class="tab tab-bordered border-b-0">History</a>
+        <a class="tab tab-bordered border-b-0">Opinions</a>
+        <a class="tab tab-bordered border-b-0">Combat footage</a>
+        <a class="tab tab-bordered border-b-0">Live maps</a>
+        <a class="tab tab-bordered border-b-0">Asia</a>
+        <a class="tab tab-bordered border-b-0">News</a>
+        <a class="tab tab-bordered border-b-0">Opinions</a>
+        <a class="tab tab-bordered border-b-0">Sudan</a>
       </div>
       <!-- End with tabs -->
       <div
-        class="grid grid-cols-4 relative mt-3 divide-x-2 divide-y divide-y-reverse"
+        class="grid md:grid-cols-3 xl:grid-cols-4 relative mt-3 divide-x-2 divide-y divide-y-reverse"
       >
         <div class="row-span-2 col-span-2 p-3">
           <div class="relative">
             <div class="absolute h-full scrim-t w-full text-white">
-              <h3 class="text-sm max-w-sm mx-auto mt-9 font-bold text-center">
-                NIEUWS
+              <h3 class="text-sm max-w-sm mx-auto mt-9 font-bold text-center" style="font-family: 'FrontLines'">
+                NEWS
               </h3>
               <h3
                 class="text-5xl font-serif font-bold max-w-sm mx-auto mt-3 text-center"
@@ -97,9 +97,9 @@ import { Icon } from "astro-icon";
           <img
             src="https://images0.persgroep.net/rcs/Bugz3V19Pxf81zVJDmyLts6hgwI/diocontent/229957515/_crop/0/87/4044/2022/_fill/560/280?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
           />
-          <h3 class="text-sm mx-auto mt-1 font-black">ANALYSE</h3>
+          <h3 class="text-sm mx-auto mt-1 font-black" style="font-family: 'FrontLines'">ANALYSE</h3>
           <h3 class="text-lg font-serif">
-            Dilemma Rusland in conflict SOedan: Welke partij moet Moskou steunen
+            Dilemma Rusland in conflict Soedan: Welke partij moet Moskou steunen
           </h3>
         </div>
         <div class="row-span-3 p-3 h-full">
@@ -107,8 +107,8 @@ import { Icon } from "astro-icon";
             <div
               class="border-t-[8px] border-primary flex place-content-between content-baseline"
             >
-              <div class="font-black mt-2 text-sm">NIEUWS</div>
-              <div class="mt-2 text-xs">MEER &gt;</div>
+              <div class="font-black mt-2 text-sm" style="font-family: 'FrontLines'" >NEWS</div>
+              <div class="mt-2 text-xs">MORE &gt;</div>
             </div>
             <div class="flex gap-3">
               <img
@@ -118,7 +118,7 @@ import { Icon } from "astro-icon";
                 style="min-width: 65px; height: 100%;"
               />
               <div>
-                <div class="font-light text-xs">20:13 UUR</div>
+                <div class="font-light text-xs">20:13 </div>
                 <div>
                   Live: Defensie koopt nieuwe munitie ter waarde van 1,5 miljard
                 </div>
@@ -133,9 +133,9 @@ import { Icon } from "astro-icon";
                 style="min-width: 65px; height: 100%;"
               />
               <div>
-                <div class="font-light text-xs">19:50 UUR</div>
+                <div class="font-light text-xs">19:50 </div>
                 <div>
-                  Grootste Tunesische oppositiepartij onder vuur: partijleider
+                  Grootste Tunesische oppositiepartij onder v: partijleider
                   opgepakt en kantoren gesloten
                 </div>
               </div>
@@ -149,9 +149,9 @@ import { Icon } from "astro-icon";
                 style="min-width: 65px; height: 100%;"
               />
               <div>
-                <div class="font-light text-xs">19:16 UUR</div>
+                <div class="font-light text-xs">19:16 </div>
                 <div>
-                  Vuurwapengeweld in Missouri en New York onderstreept hoe
+                  Vwapengeweld in Missouri en New York onderstreept hoe
                   verdeeld Amerika is over het recht op zelfverdediging
                 </div>
               </div>
@@ -165,9 +165,9 @@ import { Icon } from "astro-icon";
                 style="min-width: 65px; height: 100%;"
               />
               <div>
-                <div class="font-light text-xs">19:16 UUR</div>
+                <div class="font-light text-xs">19:16 </div>
                 <div>
-                  Vuurwapengeweld in Missouri en New York onderstreept hoe
+                  Vwapengeweld in Missouri en New York onderstreept hoe
                   verdeeld Amerika is over het recht op zelfverdediging
                 </div>
               </div>
@@ -181,9 +181,9 @@ import { Icon } from "astro-icon";
                 style="min-width: 65px; height: 100%;"
               />
               <div>
-                <div class="font-light text-xs">19:16 UUR</div>
+                <div class="font-light text-xs">19:16 </div>
                 <div>
-                  Vuurwapengeweld in Missouri en New York onderstreept hoe
+                  Vwapengeweld in Missouri en New York onderstreept hoe
                   verdeeld Amerika is over het recht op zelfverdediging
                 </div>
               </div>
@@ -195,7 +195,7 @@ import { Icon } from "astro-icon";
             <img
               src="https://images0.persgroep.net/rcs/P_Nmjymv5nZ4OBrGKJW-iIAKqZs/diocontent/229952940/_focus/0.5/0.5/_fill/560/280?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
             />
-            <h3 class="text-sm mx-auto mt-1 font-black">FANCULTUUR</h3>
+            <h3 class="text-sm mx-auto mt-1 font-black" style="font-family: 'FrontLines'">FANCULT</h3>
             <h3 class="text-lg font-serif">
               Beauty en de fan: de online fangemeenschap is een ontembaar beest
               geworden
@@ -207,13 +207,13 @@ import { Icon } from "astro-icon";
             <div
               class="border-t-[8px] border-primary flex place-content-between content-baseline"
             >
-              <div class="font-black mt-2 text-sm">Best gelezen</div>
-              <div class="mt-2 text-xs">MEER &gt;</div>
+              <div class="font-black mt-2 text-sm" style="font-family: 'FrontLines'">BEST READ</div>
+              <div class="mt-2 text-xs">MORE &gt;</div>
             </div>
             <div class="flex gap-3">
               <div class="text-6xl text-gray-400">1</div>
               <div>
-                <div class="font-light text-xs">20:13 UUR</div>
+                <div class="font-light text-xs">20:13 </div>
                 <div>
                   Live: Defensie koopt nieuwe munitie ter waarde van 1,5 miljard
                 </div>
@@ -223,9 +223,9 @@ import { Icon } from "astro-icon";
             <div class="flex gap-3">
               <div class="text-6xl text-gray-400">2</div>
               <div class="w-5/6 ml-auto">
-                <div class="font-light text-xs">19:50 UUR</div>
+                <div class="font-light text-xs">19:50 </div>
                 <div>
-                  Grootste Tunesische oppositiepartij onder vuur: partijleider
+                  Grootste Tunesische oppositiepartij onder v: partijleider
                   opgepakt en kantoren gesloten
                 </div>
               </div>
@@ -234,9 +234,9 @@ import { Icon } from "astro-icon";
             <div class="flex gap-3">
               <div class="text-6xl text-gray-400">3</div>
               <div>
-                <div class="font-light text-xs">19:16 UUR</div>
+                <div class="font-light text-xs">19:16 </div>
                 <div>
-                  Vuurwapengeweld in Missouri en New York onderstreept hoe
+                  Vwapengeweld in Missouri en New York onderstreept hoe
                   verdeeld Amerika is over het recht op zelfverdediging
                 </div>
               </div>
