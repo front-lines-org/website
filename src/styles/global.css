@@ -16,9 +16,41 @@
 
 /* Register your custom font family and tell the browser where to find it. */
 @font-face {
-  font-family: 'FrontLines';
-  src: url('/fonts/font.woff') format('woff');
-  font-weight: normal;
+  font-family: "FrontLinesCrooked";
+  src: url("/fonts/FrontLinesCrooked.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FrontLinesDenseLow";
+  src: url("/fonts/FrontLinesDenseLow.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FrontLinesGroovy";
+  src: url("/fonts/FrontLinesGroovy.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FrontLinesWideSlight";
+  src: url("/fonts/FrontLinesWideSlight.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FrontLinesWobblyWild";
+  src: url("/fonts/FrontLinesWobblyWild.woff") format("woff");
+  font-weight: 900;
   font-style: normal;
   font-display: swap;
 }

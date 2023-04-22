@@ -1,0 +1,85 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Logo from "../components/Logo.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import IconButton from "../components/IconButton.astro";
+import { Icon } from "astro-icon";
+import Drawer from "../components/Drawer.astro";
+---
+
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;500;700;900&family=Merriweather:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+
+  .scrim-t {
+    background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0)
+    );
+  }
+</style>
+
+<html lang="en" data-theme="volkskrant">
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  </head>
+  <body class="sm:container sm:mx-auto">
+    <Drawer>
+      <div class="mx-auto mt-5 max-w-7xl">
+        <!-- Top header bit -->
+        <div class="mt-8 flex place-content-between place-items-baseline mb-3">
+          <div class="mt-auto">
+            <Logo />
+          </div>
+
+          <div class="justify-self-end h-full content-baseline flex gap-2">
+            <div class="h-full content-baseline flex gap-2 mt-auto">
+              <button class="btn btn-sm btn-outline rounded-full normal-case"
+                >Login</button
+              >
+              <button
+                class="btn btn-sm btn-primary rounded-full text-white normal-case"
+                >Subscribe</button
+              >
+            </div>
+            <div class="h-full gap-5 ml-3 text-sm md:flex hidden">
+              <IconButton icon="ic:baseline-search">Search</IconButton>
+              <IconButton icon="mdi:newspaper-variant-outline">
+                Edition
+              </IconButton>
+              <IconButton icon="ic:outline-person">Settings</IconButton>
+            </div>
+          </div>
+        </div>
+        <!-- End top header bit -->
+
+        <!-- Start with tabs -->
+        <div
+          class="tabs border-y-2 overflow-x-auto whitespace-nowrap flex-nowrap"
+        >
+          <label class="tab tab-bordered border-b-0" for="my-drawer"
+            ><div>
+              <Icon class="h-4 w-4" name="ic:baseline-format-list-bulleted" />
+            </div></label
+          >
+          <a class="tab tab-bordered tab-active">Frontpage</a>
+          <a class="tab tab-bordered border-b-0">Columns</a>
+          <a class="tab tab-bordered border-b-0">Ukraine</a>
+          <a class="tab tab-bordered border-b-0">Africa</a>
+          <a class="tab tab-bordered border-b-0">History</a>
+          <a class="tab tab-bordered border-b-0">Opinions</a>
+          <a class="tab tab-bordered border-b-0">Combat footage</a>
+          <a class="tab tab-bordered border-b-0">Live maps</a>
+          <a class="tab tab-bordered border-b-0">Asia</a>
+          <a class="tab tab-bordered border-b-0">News</a>
+          <a class="tab tab-bordered border-b-0">Opinions</a>
+          <a class="tab tab-bordered border-b-0">Sudan</a>
+        </div>
+        <!-- End with tabs -->
+        <slot />
+      </div>
+    </Drawer>
+  </body>
+</html>
