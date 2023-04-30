@@ -25,7 +25,7 @@ import Drawer from "../components/Drawer.astro";
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
   </head>
-  <body class="sm:container sm:mx-auto">
+  <body>
     <Drawer>
       <div class="mx-auto mt-5 max-w-7xl">
         <!-- Top header bit -->
@@ -36,15 +36,16 @@ import Drawer from "../components/Drawer.astro";
 
           <div class="justify-self-end h-full content-baseline flex gap-2">
             <div class="h-full content-baseline flex gap-2 mt-auto">
-              <button class="btn btn-sm btn-outline rounded-full normal-case"
-                >Login</button
+              <button class="btn btn-sm btn-outline rounded-full normal-case"      style="font-family: 'FrontLinesGroovy'"
+                >GITHUB</button
               >
               <button
                 class="btn btn-sm btn-primary rounded-full text-white normal-case"
-                >Subscribe</button
+                style="font-family: 'FrontLinesGroovy'"
+                >CONTRIBUTE</button
               >
             </div>
-            <div class="h-full gap-5 ml-3 text-sm md:flex hidden">
+            <div class="h-full gap-5 ml-3 text-sm md:flex hidden"      style="font-family: 'FrontLinesGroovy'">
               <IconButton icon="ic:baseline-search">Search</IconButton>
               <IconButton icon="mdi:newspaper-variant-outline">
                 Edition

@@ -1,8 +1,10 @@
-<div class="drawer">
+<div class="drawer w-full">
     <input id="my-drawer" type="checkbox" class="drawer-toggle" />
-    <div class="drawer-content">
+    <div class="drawer-content w-full">
       <!-- Page content here -->
-      <slot />
+      <div class="sm:container sm:mx-auto">
+        <slot />
+      </div>
     </div> 
     <div class="drawer-side">
       <label for="my-drawer" class="drawer-overlay"></label>
