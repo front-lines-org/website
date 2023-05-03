@@ -8,22 +8,36 @@ import DefaultLayout from "./DefaultLayout.astro";
 
 type Props = CollectionEntry<"blog">["data"];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { subject, description, pubDate, updatedDate, img, author } = Astro.props;
 ---
 
 <DefaultLayout>
-  <article class="prose lg:prose-5xl mx-auto mt-4">
-    {heroImage && <img width={720} height={360} src={heroImage} alt="" />}
-    <h1 class="title">{title}</h1>
-    <FormattedDate date={pubDate} />
-    {
-      updatedDate && (
-        <div class="last-updated-on">
-          Last updated on <FormattedDate date={updatedDate} />
-        </div>
-      )
-    }
-    <hr />
+  <article class="prose prose-sm mt-9 mx-2 sm:mx-auto">
+    <h3 class="not-prose text-primary font-black">Ukraine</h3>
+    <h1 class="title">{subject}</h1>
+    <p class="font-bold">
+      {description}
+    </p>
+
+    <p>
+      {
+        author && (
+          <a href={author} class="text-black">
+            {author}
+          </a>
+        )
+      }
+      {!author && <span class="text-black">{author}</span>}
+      <FormattedDate date={pubDate} />
+      {
+        updatedDate && (
+          <div>
+            Last updated on <time>{updatedDate}</time>
+          </div>
+        )
+      }
+    </p>
+    {img && <img width={720} height={360} src={img} alt="" />}
     <slot />
   </article>
 </DefaultLayout>

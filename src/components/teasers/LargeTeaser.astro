@@ -1,21 +1,29 @@
-<a class="row-span-2 col-span-2 p-3 hover:underline" href="/blog/second-post">
+---
+import type { CollectionEntry } from 'astro:content';
+
+type Props = CollectionEntry<"blog">["data"] & {href: string};
+
+const { subject, description, pubDate, updatedDate, img, author, href } = Astro.props;
+---
+
+<a class="row-span-2 col-span-2 p-3 hover:underline" href={href}>
     <div class="relative">
       <div class="absolute h-full scrim-t w-full text-white">
         <h3
           class="text-md max-w-md mx-auto mt-9 font-bold text-center"
           style="font-family: 'FrontLinesGroovy'"
         >
-          NEWS
+          REPORT
         </h3>
         <h3
           class="text-5xl font-serif font-bold max-w-sm mx-auto mt-3 text-center"
         >
-          Soedan zakt weg in de chaos van een burgeroorlog
+          {subject}
         </h3>
       </div>
       <img
-        class="w-full h-full"
-        src="https://images0.persgroep.net/rcs/KLFxya-puA9QQMaQH51v-xIC5bo/diocontent/229886105/_crop/651/0/2556/2556/_fill/280/280?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
+        class="w-full h-full aspect-square object-cover"
+        src={img}
       />
     </div>
 </a>

@@ -1,21 +1,19 @@
 ---
-export interface Props {
-	type: string;
-    imgSrc: string;
-    title: string;
-}
+import type { CollectionEntry } from 'astro:content';
 
-const { type, imgSrc, title } = Astro.props;
+type Props = CollectionEntry<"blog">["data"] & {href: string; type: string};
+
+const { subject, shortDescription, img, type, href } = Astro.props;
 ---
-
-<div class="p-3">
+<a class="p-3" href={href}>
   <img
-    src={imgSrc}
+    class="aspect-video object-cover"
+    src={img}
   />
   <h3 class="text-sm mx-auto mt-1 font-black uppercase" style="font-family: 'FrontLinesGroovy'">
     {type}
   </h3>
   <h3 class="text-lg font-serif">
-    {title}
+    {shortDescription ?? subject}
   </h3>
-</div>
+</a>

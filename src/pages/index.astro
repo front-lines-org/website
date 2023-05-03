@@ -1,9 +1,14 @@
 ---
+import { getCollection } from "astro:content";
 import LargeTeaser from "../components/teasers/LargeTeaser.astro";
 import ListTeaser from "../components/teasers/ListTeaser.astro";
 import NewsSummary from "../components/teasers/NewsSummary.astro";
 import SmallTeaser from "../components/teasers/SmallTeaser.astro";
 import DefaultLayout from "../layouts/DefaultLayout.astro";
+
+const posts = (await getCollection("blog")).sort(
+  (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
+);
 ---
 
 <style>
@@ -23,17 +28,15 @@ import DefaultLayout from "../layouts/DefaultLayout.astro";
   <div
     class="grid md:grid-cols-3 xl:grid-cols-4 relative mt-3 divide-x-2 divide-y divide-y-reverse"
   >
-    <LargeTeaser />
+    {posts[6] && <LargeTeaser href={`${posts[6].collection}/${posts[6].slug}`} {...posts[6].data}  />}
     <SmallTeaser
       type="Analysis"
-      imgSrc="https://images0.persgroep.net/rcs/Bugz3V19Pxf81zVJDmyLts6hgwI/diocontent/229957515/_crop/0/87/4044/2022/_fill/560/280?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
-      title="Dilemma Rusland in conflict Soedan: Welke partij moet Moskou steunen"
+      href={`${posts[6].collection}/${posts[6].slug}`} {...posts[5].data}
     />
     <NewsSummary />
     <SmallTeaser
-      type="FANCULT"
-      imgSrc="https://images0.persgroep.net/rcs/P_Nmjymv5nZ4OBrGKJW-iIAKqZs/diocontent/229952940/_focus/0.5/0.5/_fill/560/280?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
-      title=" Beauty en de fan: de online fangemeenschap is een ontembaar beest geworden"
+      type="LIVE REPORT"
+      href={`${posts[7].collection}/${posts[7].slug}`} {...posts[7].data}
     />
     <ListTeaser />
   </div>
