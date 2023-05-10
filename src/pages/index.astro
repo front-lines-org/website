@@ -5,6 +5,7 @@ import ListTeaser from "../components/teasers/ListTeaser.astro";
 import NewsSummary from "../components/teasers/NewsSummary.astro";
 import SmallTeaser from "../components/teasers/SmallTeaser.astro";
 import DefaultLayout from "../layouts/DefaultLayout.astro";
+import ListTeaserItem from "../components/teasers/ListTeaserItem.astro";
 
 const posts = (await getCollection("blog")).sort(
   (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
@@ -33,7 +34,11 @@ const posts = (await getCollection("blog")).sort(
       type="Analysis"
       href={`${posts[6].collection}/${posts[6].slug}`} {...posts[5].data}
     />
-    <NewsSummary />
+    <NewsSummary>
+      {posts.slice(6, 16).map((post) => (
+        <ListTeaserItem  href={`${post.collection}/${post.slug}`} {...post.data} {...post.data}  />
+      ))}
+    </NewsSummary>
     <SmallTeaser
       type="LIVE REPORT"
       href={`${posts[7].collection}/${posts[7].slug}`} {...posts[7].data}
