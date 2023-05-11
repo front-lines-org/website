@@ -11,7 +11,7 @@ description: "The eastern Ukraine campaign is a theatre of operation in the
   invasion."
 author: Wikipedia
 pubDate: 2022-02-19
-img: /undefined
+
 ---
 
 The **eastern Ukraine campaign** is a theatre of operation in the ongoing 2022 Russian invasion of Ukraine that affects three oblasts in eastern Ukraine: Donetsk Oblast and Luhansk Oblast (collectively the Donbas) and Kharkiv Oblast. The invasion is an escalation or intensification of the Russo-Ukrainian War, which had been waged between Ukraine and Russian proxies since 2014.

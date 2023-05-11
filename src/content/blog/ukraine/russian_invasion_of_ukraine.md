@@ -8,7 +8,7 @@ description: On 24 February 2022, in a major escalation of the Russo-Ukrainian
   by June, and more than 8.1 million had fled the country by March 2023.
 author: Wikipedia
 pubDate: 2022-02-19
-img: /undefined
+
 ---
 
 On 24 February 2022, in a major escalation of the Russo-Ukrainian War, which had begun in 2014. The invasion has resulted in tens of thousands of deaths on both sides, and instigated Europe's largest refugee crisis since World War II. About 8 million Ukrainians were displaced within their country by June, and more than 8.1 million had fled the country by March 2023.

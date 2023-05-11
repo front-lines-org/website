@@ -1,13 +1,19 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { Img } from "astro-imagetools/components";
 
 type Props = CollectionEntry<"blog">["data"] & {href: string; type: string};
 
 const { subject, shortDescription, img, type, href } = Astro.props;
 ---
 <a class="p-3" href={href}>
-  <img
-    class="aspect-video object-cover"
+  {img && !img.endsWith('.svg') && <Img
+    alt="test"
+    attributes={{
+      img: {
+        class: "aspect-video object-cover"
+      }
+    }}
     src={img}
   />
   <h3 class="text-sm mx-auto mt-1 font-black uppercase" style="font-family: 'FrontLinesGroovy'">

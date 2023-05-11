@@ -1,29 +1,40 @@
 ---
-import type { CollectionEntry } from 'astro:content';
+import type { CollectionEntry } from "astro:content";
+import { Img } from "astro-imagetools/components";
 
-type Props = CollectionEntry<"blog">["data"] & {href: string};
+type Props = CollectionEntry<"blog">["data"] & { href: string };
 
-const { subject, description, pubDate, updatedDate, img, author, href } = Astro.props;
+const { subject, description, pubDate, updatedDate, img, author, href } =
+  Astro.props;
 ---
 
 <a class="row-span-2 col-span-2 p-3 hover:underline" href={href}>
-    <div class="relative">
-      <div class="absolute h-full scrim-t w-full text-white">
-        <h3
-          class="text-md max-w-md mx-auto mt-9 font-bold text-center"
-          style="font-family: 'FrontLinesGroovy'"
-        >
-          REPORT
-        </h3>
-        <h3
-          class="text-5xl font-serif font-bold max-w-sm mx-auto mt-3 text-center"
-        >
-          {subject}
-        </h3>
-      </div>
-      <img
-        class="w-full h-full aspect-square object-cover"
-        src={img}
-      />
+  <div class="relative">
+    <div class="absolute h-full scrim-t w-full text-white">
+      <h3
+        class="text-md max-w-md mx-auto mt-9 font-bold text-center"
+        style="font-family: 'FrontLinesGroovy'"
+      >
+        REPORT
+      </h3>
+      <h3
+        class="text-5xl font-serif font-bold max-w-sm mx-auto mt-3 text-center"
+      >
+        {subject}
+      </h3>
     </div>
+    {
+      img && !img.endsWith(".svg") && (
+        <Img
+          attributes={{
+            img: {
+              class: "w-full h-full aspect-square object-cover",
+            },
+          }}
+          src={img}
+          alt="test"
+        />
+      )
+    }
+  </div>
 </a>

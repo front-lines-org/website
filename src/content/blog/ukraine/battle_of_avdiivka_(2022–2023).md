@@ -9,7 +9,7 @@ description: The battle of Avdiivka is an ongoing military engagement between
   recognized the Donetsk People's Republic.
 author: Wikipedia
 pubDate: 2022-02-19
-img: /undefined
+
 ---
 
 The **battle of Avdiivka** is an ongoing military engagement between the Russian Armed Forces and Donbas Separatist Forces on one side and the Ukrainian Armed Forces on the other. It is being fought over the city of Avdiivka, located in the Donbas region. Fighting started when violence erupted in the Donbas again on 21 February 2022, when Russian president Vladimir Putin recognized the Donetsk People's Republic. Days later, when Russia invaded Ukraine, Avdiivka was among the first places to be attacked.

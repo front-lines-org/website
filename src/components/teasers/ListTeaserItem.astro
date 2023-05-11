@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { Img } from "astro-imagetools/components";
 import dayjs from 'dayjs';
 
 type Props = CollectionEntry<"blog">["data"] & {href: string};
@@ -7,14 +8,20 @@ type Props = CollectionEntry<"blog">["data"] & {href: string};
 const { subject, description, pubDate, updatedDate, img, author, href } = Astro.props;
 
 const date = dayjs(pubDate);
+console.log(img);
 ---
 
 <a href={href} class="flex gap-3 border-b-2 pb-3 mt-3 mb-3">
-    {img && <img
+    {img && !img.endsWith('.svg') && <Img
       src={img}
-      width="65"
-      height="65"
-      style="min-width: 65px; height: 100%;"
+      alt="test"
+      width={65}
+      height={65}
+      attributes={{
+      img: {
+        style: "min-width: 65px; height: 100%;"
+      }
+    }}
     />}
     <div>
       <div class="font-light text-xs">{date.format('HH-mm')}</div>

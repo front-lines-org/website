@@ -9,7 +9,7 @@ description: The Kyiv offensive was a theater of operation in the 2022 Russian
   headquarters of the Armed Forces of Ukraine.
 author: Wikipedia
 pubDate: 2022-02-19
-img: /undefined
+
 ---
 
 The **Kyiv offensive** was a theater of operation in the 2022 Russian invasion of Ukraine. It involved attacks by Russia across the Russo-Ukrainian and Belarusian–Ukrainian borders, beginning on 24 February 2022, for control of Kyiv, the capital of Ukraine, and the surrounding areas of Kyiv Oblast and parts of Zhytomyr Oblast. Kyiv is the site of the Ukrainian government and the headquarters of the Armed Forces of Ukraine.

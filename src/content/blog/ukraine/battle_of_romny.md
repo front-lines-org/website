@@ -10,7 +10,7 @@ description: The Battle of Romny was a series of military engagements in Romny,
   offensive and Northeastern Ukraine offensive together.
 author: Wikipedia
 pubDate: 2022-02-19
-img: /undefined
+
 ---
 
 The **Battle of Romny** was a series of military engagements in Romny, Sumy Oblast which began on 24 February 2022, during the 2022 Russian invasion of Ukraine, as part of the Northeastern Ukraine offensive.

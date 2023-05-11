@@ -11,7 +11,6 @@ description: The northeastern Ukraine campaign was a theatre of operation from
   Pentagon by 6 April.
 author: Wikipedia
 pubDate: 2022-02-19
-img: /File2022_Sumy_Offen.png
 ---
 
 The **northeastern Ukraine campaign** was a theatre of operation from 24 February to 8 April 2022 in the 2022 Russian invasion of Ukraine for control of two provinces (oblasts) in Ukraine — Chernihiv Oblast and Sumy Oblast. On 4 April 2022, Ukrainian authorities said that Russian troops had mostly withdrawn from Sumy Oblast and no longer occupied any towns or villages in the area. Later that evening Ukrainian authorities claimed that Russian forces had withdrawn from Chernihiv Oblast, which was confirmed by the Pentagon by 6 April. In addition, it took place from February 24 to May 14 in Kharkiv Oblast. On 14 May, the ISW reported that: “Ukraine thus appears to have won the battle of Kharkiv.” The Mayor of Kharkiv said to the BBC: "There was no shelling in the city for the last five days. There was only one attempt from Russians to hit the city with a missile rocket near Kharkiv airport, but the missile was eliminated by Ukrainian Air Defence."
