@@ -1,12 +1,14 @@
 license:
   license: CC BY-SA 4.0
-  artist: Viewsridge
-  credit: <a class="external free"
-    href="https://upload.wikimedia.org/wikipedia/commons/4/4f/2022_Russian_invasion_of_Ukraine.svg">https://upload.wikimedia.org/wikipedia/commons/4/4f/2022_Russian_invasion_of_Ukraine.svg</a>
+  artist: <a href="//commons.wikimedia.org/wiki/User:VictorAnyakin"
+    title="User:VictorAnyakin">VictorAnyakin</a>
+  credit: <span class="int-own-work" lang="en">Own work</span>
   attributionRequired: "true"
 json:
-  file: File:2022_Russian_invasion_of_Ukraine_Hlukhiv.png
-  thumb: https://wikipedia.org/wiki/Special:Redirect/file/2022_Russian_invasion_of_Ukraine_Hlukhiv.png?width=300
-  url: https://wikipedia.org/wiki/Special:Redirect/file/2022_Russian_invasion_of_Ukraine_Hlukhiv.png
-alt: 2022 Russian invasion of Ukraine Hlukhiv
-caption: ""
+  file: File:2022_Russian_invasion_of_Ukraine_siverskdonets_river.png
+  thumb: https://wikipedia.org/wiki/Special:Redirect/file/2022_Russian_invasion_of_Ukraine_siverskdonets_river.png?width=300
+  url: https://wikipedia.org/wiki/Special:Redirect/file/2022_Russian_invasion_of_Ukraine_siverskdonets_river.png
+  caption: The front line on May 13, with the Donets outlined in purple.
+  links: []
+alt: 2022 Russian invasion of Ukraine siverskdonets river
+caption: The front line on May 13, with the Donets outlined in purple.

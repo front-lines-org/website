@@ -1,18 +1,18 @@
 ---
 subject: Battle of Ivankiv
 shortDescription: Battle in the 2022 Russian invasion of Ukraine
-description: The battle of Ivankiv was a military engagement that was part of
+description: The Battle of Ivankiv was a military engagement that was part of
   the Kyiv offensive in the 2022 Russian invasion of Ukraine for control of the
   town of Ivankiv which is the location of a key crossing over the river
   Teteriv. The combatants were elements of the Russian Armed Forces and
   Ukrainian Ground Forces. The battle lasted from 25 February 2022 to 31 March
   2022 and ended with the withdrawal of Russian forces.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-26
 img: /FileIvankiv_Histori.jpg
 ---
 
-The **battle of Ivankiv** was a military engagement that was part of the Kyiv offensive in the 2022 Russian invasion of Ukraine for control of the town of Ivankiv which is the location of a key crossing over the river Teteriv. The combatants were elements of the Russian Armed Forces and Ukrainian Ground Forces. The battle lasted from 25 February 2022 to 31 March 2022 and ended with the withdrawal of Russian forces. The battle was part of a larger tactic to encircle Kyiv, the capital city of Ukraine. While Russian forces captured the village on 27 February, the armed forces of Ukraine resisted the Russian advance in the capital's western suburbs of Irpin, Bucha, and Hostomel.
+The **Battle of Ivankiv** was a military engagement that was part of the Kyiv offensive in the 2022 Russian invasion of Ukraine for control of the town of Ivankiv which is the location of a key crossing over the river Teteriv. The combatants were elements of the Russian Armed Forces and Ukrainian Ground Forces. The battle lasted from 25 February 2022 to 31 March 2022 and ended with the withdrawal of Russian forces. The battle was part of a larger tactic to encircle Kyiv, the capital city of Ukraine. While Russian forces captured the village on 27 February, the armed forces of Ukraine resisted the Russian advance in the capital's western suburbs of Irpin, Bucha, and Hostomel.
 
 ## Battle
 In the early morning of 25 February 2022, Russian forces approached Ivankiv from the northeast after making a breakthrough in the Battle of Chernobyl. Ukrainian forces destroyed the bridge crossing the Teteriv River at Ivankiv, halting the advance of Russian tanks heading towards Kyiv. Ukrainian airborne assault troops engaged Russian soldiers at Ivankiv and the nearby village of Dymer. ; ; ; ; Among reported Russian units involved was the 5th Separate Guards Tank Brigade, losing two T-72 tanks and an APC.

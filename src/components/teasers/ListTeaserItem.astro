@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { Img } from "astro-imagetools/components";
+import Img  from "../Img.astro";
 import dayjs from 'dayjs';
 
 type Props = CollectionEntry<"blog">["data"] & {href: string};

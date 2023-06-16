@@ -1,18 +1,18 @@
 ---
 subject: Kyiv offensive (2022)
 shortDescription: Russian offensive in Ukraine
-description: The Kyiv offensive was a theater of operation in the 2022 Russian
-  invasion of Ukraine. It involved attacks by Russia across the Russo-Ukrainian
-  and Belarusian–Ukrainian borders, beginning on 24 February 2022, for control
-  of Kyiv, the capital of Ukraine, and the surrounding areas of Kyiv Oblast and
-  parts of Zhytomyr Oblast. Kyiv is the site of the Ukrainian government and the
-  headquarters of the Armed Forces of Ukraine.
+description: The Kyiv offensive was a theater of operation in the 2022-2023
+  Russian invasion of Ukraine. It involved attacks by Russia across the
+  Russo-Ukrainian and Belarusian–Ukrainian borders, beginning on 24 February
+  2022, for control of Kyiv, the capital of Ukraine, and the surrounding areas
+  of Kyiv Oblast and parts of Zhytomyr Oblast. Kyiv is the site of the Ukrainian
+  government and the headquarters of the Armed Forces of Ukraine.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-23
 
 ---
 
-The **Kyiv offensive** was a theater of operation in the 2022 Russian invasion of Ukraine. It involved attacks by Russia across the Russo-Ukrainian and Belarusian–Ukrainian borders, beginning on 24 February 2022, for control of Kyiv, the capital of Ukraine, and the surrounding areas of Kyiv Oblast and parts of Zhytomyr Oblast. Kyiv is the site of the Ukrainian government and the headquarters of the Armed Forces of Ukraine.
+The **Kyiv offensive** was a theater of operation in the 2022-2023 Russian invasion of Ukraine. It involved attacks by Russia across the Russo-Ukrainian and Belarusian–Ukrainian borders, beginning on 24 February 2022, for control of Kyiv, the capital of Ukraine, and the surrounding areas of Kyiv Oblast and parts of Zhytomyr Oblast. Kyiv is the site of the Ukrainian government and the headquarters of the Armed Forces of Ukraine.
 
 Russian forces initially captured several towns and cities, but logistical and supply failures, stiff Ukrainian resistance, and subsequent poor morale caused the advance to stall. With heavy losses and the inability to make further progress, Russia withdrew its forces from Kyiv and Zhytomyr oblasts in April 2022, and Ukrainian forces retook control.
 
@@ -22,13 +22,13 @@ Russian forces initially captured several towns and cities, but logistical and s
 ### Russian advance on Kyiv
 On the morning of 24 February 2022, Russia initiated attacks on Kyiv Oblast with artillery and missile strikes on several primary targets, including Boryspil International Airport, Kyiv's primary airport. Russia apparently intended to rapidly seize Kyiv, with Spetsnaz infiltrating the city, supported by airborne operations and a rapid mechanised advance from the north. Russian Airborne Forces attempted to seize two key airfields near Kyiv, launching an airborne assault on Antonov Airport, followed by a similar landing at Vasylkiv, near Vasylkiv Air Base south of Kyiv, on 26 February.
 
-The attacks were unsuccessful due to several factors, including the disparity in morale and performance between Ukrainian and Russian forces, the Ukrainian use of sophisticated man-portable weapons provided by Western allies, poor Russian logistics and equipment performance, the failure of the Russian Air Force to achieve air superiority, and Russian military attrition during their siege of major cities. As Russian forces advanced towards Kyiv, Ukrainian President Volodymyr Zelenskyy warned that "subversive groups" were approaching the city. The Ukrainians also claimed that at the beginning of the invasion, just 30 SOF soldiers managed to halt the Russian attack. The Ukrainians ambushed the Russian convoy, guarded by some 2,000 troops, and destroyed three lead vehicles, attacked the rest of the convoy, destroying the bridges in the process. This engagement ended up temporarily stalling the entire Russian advance from Belarus, which comprised of 70,000 soldiers and 7,000 vehicles.
+The attacks were unsuccessful due to several factors, including the disparity in morale and performance between Ukrainian and Russian forces, the Ukrainian use of sophisticated man-portable weapons provided by Western allies, poor Russian logistics and equipment performance, the failure of the Russian Air Force to achieve air superiority, and Russian military attrition during their siege of major cities. As Russian forces advanced towards Kyiv, Ukrainian President Volodymyr Zelenskyy warned that "subversive groups" were approaching the city. The Ukrainians also claimed that at the beginning of the invasion, just 30 SOF soldiers managed to halt the Russian attack. The Ukrainians ambushed the Russian convoy, guarded by some 2,000 troops, and destroyed three lead vehicles, attacked the rest of the convoy, destroying the bridges in the process. This engagement ended up temporarily stalling the entire Russian advance from Belarus, which consisted of 70,000 soldiers and 7,000 vehicles.
 
 Wagner Group mercenaries and Chechen forces reportedly made several attempts to assassinate Zelenskyy. The Ukrainian government said these efforts were thwarted by anti-war officials in Russia's Federal Security Service (FSB), who shared intelligence of the plans.
 
 Russian forces trying to capture Kyiv sent a probative spearhead on 24 February south from Belarus along the west bank of the Dnipro River, apparently to encircle the city from the west, but it pulled back by 7 April to resupply and redeploy to the southeastern front. It was supported by two separate axes of attack from Russia along the east bank of the Dnipro: the western at Chernihiv, and the eastern at Sumy. These were likely intended to encircle Kyiv from the northeast and east.
 
-The attack force reached the Chernobyl Exclusion Zone and captured the Chernobyl Nuclear Power Plant and the ghost city of Pripyat. Following their breakthrough at Chernobyl, Russian forces were held at Ivankiv, a northern suburb of Kyiv. United States Secretary of Defense Lloyd Austin revealed that some Russian mechanized infantry units had advanced to within 20 mi of Kyiv on the first day of the offensive.
+The attack force reached the Chernobyl Exclusion Zone and captured the Chernobyl Nuclear Power Plant and the ghost city of Pripyat. Following their breakthrough at Chernobyl, Russian forces were held at Ivankiv, a key town between the border and Kyiv. United States Secretary of Defense Lloyd Austin revealed that some Russian mechanized infantry units had advanced to within 20 mi of Kyiv on the first day of the offensive.
 
 The Russian advance was greatly hindered by logistical difficulties, partially caused by the Belarusian opposition, as dissident railway workers, hackers and security forces disrupted railway lines in Belarus. This operation, known as the 2022 rail war in Belarus, was mainly organized by individuals and three larger networks known as "Bypol", the "Community of Railway Workers", and the "Cyber Partisans".
 
@@ -163,8 +163,6 @@ On 6 April, NATO secretary general Jens Stoltenberg said that the Russian "retra
 
 As the second phase of the invasion began, Kyiv was left generally free from attack apart from isolated missile strikes, one of which occurred during the 28 April visit of UN Secretary-General António Guterres, who met with Zelenskyy to discuss the fate of survivors at the siege of Mariupol.
 
-The following year, Ukrainian Defense Minister Oleksii Reznikov later recalled that a meeting with Russian authorities in February 2022. He said that about 3,000 Russian soldiers had died during the offensive (from Belarus) up to that point, and that the Russians refused to confirm or collect their dead.
-
 ### Bucha massacre
 Ukrainian authorities said that more than 300 civilian inhabitants of Bucha had been summarily executed. The bodies were discovered after the Russians withdrew. In total, 458 civilian deaths were recorded in Bucha, along with 1,300 deaths in Russian-occupied areas of Kyiv Oblast.
 
@@ -176,6 +174,7 @@ Ukrainian authorities said that more than 300 civilian inhabitants of Bucha had 
 
 ## References
 ## References[object Object]
+[object Object]
 [object Object]
 [object Object]
 [object Object]

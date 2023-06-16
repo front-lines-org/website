@@ -9,7 +9,7 @@ description: The Battle of Romny was a series of military engagements in Romny,
   Nedryhailiv, and the Ukrainian capital Kyiv, and therefore connecting the Kyiv
   offensive and Northeastern Ukraine offensive together.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-20
 
 ---
 

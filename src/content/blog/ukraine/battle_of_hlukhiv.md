@@ -1,7 +1,7 @@
 ---
 subject: Battle of Hlukhiv
 shortDescription: Battle in the 2022 Russian invasion of Ukraine
-description: The battle of Hlukhiv was a series of clashes that began on
+description: The Battle of Hlukhiv was a series of clashes that began on
   February 24, 2022, in the town of Hlukhiv, Hlukhiv Raion, Sumy Oblast, as part
   of the Russian invasion of Ukraine in 2022. Early in the morning of February
   24, 2022 at 5:23 a.m., Russian troops crossed the state border of Ukraine,
@@ -9,11 +9,11 @@ description: The battle of Hlukhiv was a series of clashes that began on
   up to 90 people, including 18 border guards, were taken prisoner at the border
   checkpoint in Bashivsk.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-19
 img: /File2022_Russian_in.png
 ---
 
-The **battle of Hlukhiv** was a series of clashes that began on February 24, 2022, in the town of Hlukhiv, Hlukhiv Raion, Sumy Oblast, as part of the Russian invasion of Ukraine in 2022.
+The **Battle of Hlukhiv** was a series of clashes that began on February 24, 2022, in the town of Hlukhiv, Hlukhiv Raion, Sumy Oblast, as part of the Russian invasion of Ukraine in 2022.
 
 ## Timeline
 

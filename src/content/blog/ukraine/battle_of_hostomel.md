@@ -10,7 +10,7 @@ description: The Battle of Hostomel was a battle fought for control over the
   with Irpin, Bucha, Highway M06, and Vyshhorod as the most dangerous places in
   the Kyiv Oblast.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-07-01
 img: /FileBattle_of_Hosto.jpg
 ---
 
@@ -42,7 +42,7 @@ On 3 March 2022, Ukrainian forces engaged Russian forces in urban combat inside 
 
 On 4 March 2022, Ukrainian forces engaged Russian forces in the streets a second time, reportedly destroying a BMD and bombarding Russian forces with BM-21 Grad rockets. Elsewhere in Hostomel, Ukrainian soldiers defeated a unit of Kadyrovites, seizing their weapons, equipment, and armored vehicle. Ukrainian forces later reported to have regained control of Hostomel from the Russian forces. Ukrainian intelligence reported that the Russian 31st Guards Air Assault Brigade suffered at least 50 dead from the battles in Hostomel. Special forces under the GUR MO, the 3rd Special Purpose Regiment, and local resistance fighters were reported to have taken part in the battle. Russian weapons, equipment, and staff and personal documents were seized by the Ukrainian military, with any usable weapons being redistributed to the local resistance. The GUR MO reported that the deceased Russian soldiers did not possess any identification documents; only vaccination certifications and blank medical books. On the same day, Ukrainian forces reported that Major Valeriy Chybineyev was killed near the Hostomel Airport. Russian forces, reportedly the 31st Guards Air Assault Brigade, later returned into Hostomel and occupied a residential complex, taking 40 or more residents hostage.
 
-One journalist named Ruslan Vinichenko detailed his six-day captivity by the Russian forces inside the apartment building's basement. According to him the Russian soldiers gathered 60 people (including himself) into the basement and were doing similar actions with 90 people in a neighboring apartment complex, confiscated and destroyed their phones, looted their apartments, and spread false information about state of the war, such as Russian forces capturing Kyiv and Odessa. The only time residents were allowed to leave the basement was to either smoke or collect water. On March 10, the day of his escape, Vinichenko stated that Russian soldiers announced they were gathering the residents to move to Belarus. He tried to convince the rest of the residents to escape with him, but they were too distraught to move out. Vinichenko grabbed his girlfriend and escaped the town after a passing motorist picked them up. Three Russian soldiers saw what they were doing but did not bother to stop them.
+One journalist named Ruslan Vinichenko detailed his six-day captivity by the Russian forces inside the apartment building's basement. According to him the Russian soldiers gathered 60 people (including himself) into the basement and were doing similar actions with 90 people in a neighboring apartment complex, confiscated and destroyed their phones, looted their apartments, and spread false information about state of the war, such as Russian forces capturing Kyiv and Odesa. The only time residents were allowed to leave the basement was to either smoke or collect water. On March 10, the day of his escape, Vinichenko stated that Russian soldiers announced they were gathering the residents to move to Belarus. He tried to convince the rest of the residents to escape with him, but they were too distraught to move out. Vinichenko grabbed his girlfriend and escaped the town after a passing motorist picked them up. Three Russian soldiers saw what they were doing but did not bother to stop them.
 
 On 5 March 2022, Russian forces captured Hostomel and prevented civilians from evacuating the town.
 
@@ -64,7 +64,7 @@ On 1 April 2022, Oleksandr Pavlyuk, the head of the Kyiv Regional Military Admin
 
 On 28 September 2022, the Prosecutor General of Ukraine and National Police of Ukraine published CCTV footage showing OMON and Rosgvardiya soldiers shooting at civilians in Hostomel during the battle.
 
-In April 2023, Ukrainian Defence Minister Oleksii Reznikov stated that prior to the invasion, he was supposed to go to a MoD command post located in Hostomel, but the plans were cancelled and his team was not captured.
+In April 2023, Ukrainian Defence Minister Oleksii Reznikov stated that prior to the invasion, he was supposed to go to an MoD command post located in Hostomel, but the plans were cancelled and his team was not captured.
 
 ## References
 ## References[object Object]

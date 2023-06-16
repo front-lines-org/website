@@ -7,8 +7,7 @@ description: The Battle of Kyiv was part of the Kyiv offensive in the Russian
   Forces and Ukrainian Armed Forces. The battle lasted from 25 February 2022 to
   2 April 2022 and ended with the withdrawal of Russian forces.
 author: Wikipedia
-pubDate: 2022-02-19
-img: /FileRussian_bombard.svg
+pubDate: 2023-06-29
 ---
 
 The **Battle of Kyiv** was part of the Kyiv offensive in the Russian invasion of Ukraine for control of Kyiv, the capital city of Ukraine, and surrounding districts. The combatants were elements of the Russian Armed Forces and Ukrainian Armed Forces. The battle lasted from 25 February 2022 to 2 April 2022 and ended with the withdrawal of Russian forces.
@@ -62,7 +61,7 @@ On 4 March, a new wave of shelling struck downtown Kyiv, including the Borshchah
 
 On 7 March, Ukrainian authorities claimed Ukrainian forces had destroyed two Russian aircraft. Later, Zelenskyy denied rumors that he had fled the city, stating that he will stay in Kyiv.
 
-The effort to encircle Kyiv ultimately came to naught. Later, on 22 March, Ukrainian forces retook the suburb of Makariv, effectively halting any potential blockade of the city.
+The effort to encircle Kyiv ultimately came to naught. Later, on 22 March, Ukrainian forces retook the town of Makariv, effectively halting any potential blockade of the city.
 
 ## Russian offensive stalls
 ![People on a metro station during Russian invasion, Kyiv, 2022](https://wikipedia.org/wiki/Special:Redirect/file/People_on_a_metro_station_during_Russian_invasion%2C_Kyiv%2C_2022.jpg?)
@@ -111,12 +110,13 @@ On 2 April, Ukrainian authorities claimed that the entire Kyiv region had been r
 ## Aftermath
 Without admitting defeat, the battered Russian invasion forces retreated not just from Kyiv Oblast, but also from Sumy and Chernihiv Oblasts. International media outlets reported jubilation among the civilian population in the capital and other areas from which the Russians retreated. Celebration soon gave way to outrage, as evidence of Russian atrocities in places like Bucha emerged. Media coverage of such discoveries led to additional rounds of sanctions against Russia and pledges of further military aid to Ukraine.
 
-For international military observers, the retreat culminated the Battle of Kyiv as a surprise upset that dispelled notions of a quick Russian victory and showcased Ukraine's resilience, as well as unexpected weaknesses in the Russian military. The Institute For the Study of War wrote in its April 3 campaign assessment, "The continued existence of an independent Ukrainian state with its capital in Kyiv is no longer in question at this time, although much fighting remains and the war could still turn Russia's way."
+For international military observers, the retreat culminated the Battle of Kyiv as a surprise upset that dispelled notions of a quick Russian victory and showcased Ukraine's resilience, as well as unexpected weaknesses in the Russian military. The Institute for the Study of War wrote in its April 3 campaign assessment, "The continued existence of an independent Ukrainian state with its capital in Kyiv is no longer in question at this time, although much fighting remains and the war could still turn Russia's way."
 
 ## See also
  * Aerorozvidka
  * Battle of Sumy
  * Battle of Kharkiv (2022)
+ * List of attacks on Kyiv during the Russian invasion of Ukraine
  * Siege of Mariupol
  * Russian Kyiv convoy
  * Siege of Chernihiv
@@ -127,6 +127,11 @@ For international military observers, the retreat culminated the Battle of Kyiv 
 
 ## Notes
 ## References[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
 [object Object]
 [object Object]
 [object Object]

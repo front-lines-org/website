@@ -2,7 +2,7 @@
 subject: Eastern Ukraine campaign
 shortDescription: Ongoing military offensive in Ukraine
 description: "The eastern Ukraine campaign is a theatre of operation in the
-  ongoing 2022 Russian invasion of Ukraine that affects three oblasts in eastern
+  ongoing Russian invasion of Ukraine that affects three oblasts in eastern
   Ukraine: Donetsk Oblast and Luhansk Oblast (collectively the Donbas) and
   Kharkiv Oblast. The invasion is an escalation or intensification of the
   Russo-Ukrainian War, which had been waged between Ukraine and Russian proxies
@@ -10,11 +10,11 @@ description: "The eastern Ukraine campaign is a theatre of operation in the
   operations and is considered to be the second strategic phase of the
   invasion."
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-07-17
 
 ---
 
-The **eastern Ukraine campaign** is a theatre of operation in the ongoing 2022 Russian invasion of Ukraine that affects three oblasts in eastern Ukraine: Donetsk Oblast and Luhansk Oblast (collectively the Donbas) and Kharkiv Oblast. The invasion is an escalation or intensification of the Russo-Ukrainian War, which had been waged between Ukraine and Russian proxies since 2014.
+The **eastern Ukraine campaign** is a theatre of operation in the ongoing Russian invasion of Ukraine that affects three oblasts in eastern Ukraine: Donetsk Oblast and Luhansk Oblast (collectively the Donbas) and Kharkiv Oblast. The invasion is an escalation or intensification of the Russo-Ukrainian War, which had been waged between Ukraine and Russian proxies since 2014.
 
 The battle of Donbas is a major offensive in this theatre of operations and is considered to be the second strategic phase of the invasion. By July 2022, Russian forces and their separatist allies had captured the cities of Sievierodonetsk, Lysychansk, Rubizhne and Izium. However, in early September, Ukraine launched a major counteroffensive in the east, which recaptured the cities of Izium, Balakliia, Kupiansk, Sviatohirsk and the strategic city of Lyman. Outside of the Donbas, there are ongoing battles in the cities of Kreminna and Svatove.
 
@@ -128,14 +128,17 @@ On 9 September, Ukrainian forces reached the outskirts of Kupiansk and destroyed
 
 On 1 October, Ukrainian forces encircled and entered Lyman. According to Russia's Ministry of Defense, Russian forces had retreated from Lyman.
 
-#### November 2022–present
+#### November 2022–May 2023
 ![Battle of Bakhmut 1](https://wikipedia.org/wiki/Special:Redirect/file/Battle_of_Bakhmut_1.jpg?)
 ![Bakhmut after Russian shelling, 2022-12-26 (03)](https://wikipedia.org/wiki/Special:Redirect/file/Bakhmut_after_Russian_shelling%2C_2022-12-26_(03).jpg?)
 By December 2022, the fiercest fighting in Ukraine took place on the eastern front, in the Donbas. Russian and Ukrainian forces funneled reinforcements from other fronts to the Bakhmut–Soledar axis while Ukraine's eastern counteroffensive largely stalled along the Lyman–Kreminna–Svatove axis. Russia spent much of the month consolidating defense lines along the Kreminna–Svatove front, seeking to prevent a Ukrainian breakthrough to the P-66 highway; the Ukrainians, including the 92nd Mechanized Brigade, attempted intermittent local counterattacks across the line of contact while repelling many local Russian assaults. The Kreminna–Svatove line became a defensive flashpoint for Russia, which reportedly reinforced the area with two battalions of T-90 tanks and a few BMPT armored fighting vehicles, and reportedly mobilized elements of Russia's 144th Guards Motor Rifle Division and 8th Guards Combined Arms Army. Both the Russians and Ukrainians claimed to be conducting offensive operations along this front line and repelling local enemy assaults; on 10 December, the Russian defense ministry said it was making new advances east of Lyman while the Institute for the Study of War assessed that Ukraine "likely" controlled Chervonopopivka as of 22 December.
 
 In southern and western Donetsk Oblast, the battle of Marinka continued as Russia continued demolition and reconstruction projects in Mariupol, reportedly seeking to turn the ruined city into a garrison city. Observers accused Russia of using the rebuilding efforts to cover up and destroy evidence of war crimes in Mariupol, particularly the March 2022 Mariupol theatre airstrike. Ukraine also sharply increased shelling of Donetsk city, killing over 10 civilians and wounding many more throughout the month, according to separatist authorities.
 
-The fiercest clashes occurred on the Bakhmut front, with fighting typified by positional trench warfare, artillery duels, and small Russian probing attacks amid freezing winter conditions as Russian regular, separatist, and Wagner Group PMC forces sought to break defense lines on the city's southern and eastern flanks; PMC Wagner fighters spearheaded ground assaults into the city and its satellite suburbs, each of which Ukraine had turned into a stronghold. Media, government officials, and eyewitnesses described the fighting in Bakhmut as a "meat grinder" as both Ukrainian and Russian troops reportedly suffered heavy casualties daily with negligible changes on the front line. Russian forces intensified their encirclement attempts of Bakhmut in the winter, as Wagner broke through Ukrainian defense lines in the salt-mining town of Soledar on 27 December, capturing Bakhmutske and Soledar proper by 16 January 2023, degrading Bakhmut's northeastern defensive flanks.
+The fiercest clashes occurred on the Bakhmut front, with fighting typified by positional trench warfare, artillery duels, and small Russian probing attacks amid freezing winter conditions as Russian regular, separatist, and Wagner Group PMC forces sought to break defense lines on the city's southern and eastern flanks; PMC Wagner fighters spearheaded ground assaults into the city and its satellite suburbs, each of which Ukraine had turned into a stronghold. Media, government officials, and eyewitnesses described the fighting in Bakhmut as a "meat grinder" as both Ukrainian and Russian troops reportedly suffered heavy casualties daily with negligible changes on the front line. Russian forces intensified their encirclement attempts of Bakhmut in the winter, as Wagner broke through Ukrainian defense lines in the salt-mining town of Soledar on 27 December, capturing Bakhmutske and Soledar proper by 16 January 2023, degrading Bakhmut's northeastern defensive flanks. By 21 May 2023, Wagner forces had pushed Ukrainian forces to the outskirts of Bakhmut.
+
+#### June 2023–Present
+After Russia pushed Ukraine to the environs of Bakhmut, Ukraine regained the initiative and began counterattacks on the flanks of Bakhmut. This led to Ukraine making multiple "localized" gains in the month of May. In early June 2023, Ukraine launched a counteroffensive on the flanks of Bakhmut. These attacks focused around areas such as Andriivka, Klishchiivka , and Berkhivka , where Ukrainian forces made "marginal" gains.
 
 ## Order of battle
 
@@ -158,7 +161,7 @@ The fiercest clashes occurred on the Bakhmut front, with fighting typified by po
  * 20th CAA
  * 3rd Motor Rifle Division
  * 35th CAA
- * 1st Guards Tank Army
+ * 1st Guards Tank Army (elements)
  * 68th Army Corps
  * 64th Guards Motor Rifle Brigade
  * 41st CAA
@@ -225,7 +228,7 @@ The fiercest clashes occurred on the Bakhmut front, with fighting typified by po
  * 2nd Separate Battalion
  * Ukrainian Air Assault Forces
  * 46th Airmobile Brigade
- * 71st Jager Infantry Brigade
+ * 71st Jaeger Brigade
  * 80th Air Assault Brigade
  * 81st Airmobile Brigade
  * Ukrainian Naval Infantry
@@ -267,6 +270,12 @@ Ukrainian Ministry of Internal Affairs Irregular civilian volunteers (militia)
 
 ## References
 ## References[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
 [object Object]
 [object Object]
 [object Object]

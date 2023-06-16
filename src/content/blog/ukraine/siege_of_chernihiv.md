@@ -1,17 +1,17 @@
 ---
 subject: Siege of Chernihiv
 shortDescription: Battle in the 2022 Russian invasion of Ukraine
-description: The siege of Chernihiv was a military engagement in the city of
+description: The Siege of Chernihiv was a military engagement in the city of
   Chernihiv, in Chernihiv Oblast in the north of Ukraine. It began on 24
   February 2022, as part of the northeastern Ukraine offensive, during the 2022
   Russian invasion of Ukraine. On 4 April 2022, Ukrainian authorities stated
   that the Russian military had left Chernihiv Oblast.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-25
 img: /FileHotel_Ukraine_i.jpg
 ---
 
-The **siege of Chernihiv** was a military engagement in the city of Chernihiv, in Chernihiv Oblast in the north of Ukraine. It began on 24 February 2022, as part of the northeastern Ukraine offensive, during the 2022 Russian invasion of Ukraine. On 4 April 2022, Ukrainian authorities stated that the Russian military had left Chernihiv Oblast.
+The **Siege of Chernihiv** was a military engagement in the city of Chernihiv, in Chernihiv Oblast in the north of Ukraine. It began on 24 February 2022, as part of the northeastern Ukraine offensive, during the 2022 Russian invasion of Ukraine. On 4 April 2022, Ukrainian authorities stated that the Russian military had left Chernihiv Oblast.
 
 ## Initial battle
 On 24 February 2022, at 03:27 EET (UTC+2), a captain and a corporal from the Russian 11th Guards Air Assault Brigade surrendered to elements of the Armed Forces of Ukraine (ZSU) near Chernihiv. On the same day, Ukraine claimed a reconnaissance platoon of the Russian 74th Motorized Rifle Brigade had also surrendered.
@@ -59,7 +59,7 @@ On 1 April, Ukraine claimed that Russian forces were withdrawing from the Cherni
 On 3 April, the Ukrainian Army recaptured the villages of Kolychivka, Yahidne and Ivanivka, as Governor Chaus stated that the Russian military left Chernihiv Oblast, but that it had planted mines in many areas. On 5 April, Russia completed their withdrawal from the Chernihiv Oblast, conclusively ending fighting in the region.
 
 ## Aftermath
-On 2 March, *The Kyiv Independent* reported on a WhatsApp audio message allegedly recorded by a woman from Aleysk, Russia. The woman stated that nearly all of a "tank brigade", part of the 35th Guards Motor Rifle Brigade which is based in Aleysk, had been killed in battle near Chernihiv; only 18 soldiers of the original 150 survived. The woman described the dead soldiers as "mostly very young men". The woman stated that 45 coffins were expected to arrive on the day of her message.
+On 2 March, *The Kyiv Independent* reported on a WhatsApp audio message allegedly recorded by a woman from Aleysk, Russia. The woman stated that nearly all of a "tank brigade", part of the 35th Separate Guards Motor Rifle Brigade which is based in Aleysk, had been killed in battle near Chernihiv; only 18 soldiers of the original 150 survived. The woman described the dead soldiers as "mostly very young men". The woman stated that 45 coffins were expected to arrive on the day of her message.
 
 On 3 March, 47 people were killed, while 18 others were injured in a Russian bombing attack that hit residential areas and several schools.
 

@@ -1,17 +1,17 @@
 ---
 subject: Battle of Melitopol
 shortDescription: Battle in the 2022 Russian invasion of Ukraine
-description: The battle of Melitopol was a military engagement between the Armed
+description: The Battle of Melitopol was a military engagement between the Armed
   Forces of Ukraine and the Armed Forces of Russia in the city of Melitopol,
   Zaporizhzhia Oblast. It was part of the southern Ukraine offensive of the 2022
   Russian invasion of Ukraine. Russian forces attacked the city on 25 February,
   and captured it after heavy fighting by 1 March.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-30
 img: /FileBattle_of_Melit.svg
 ---
 
-The **battle of Melitopol** was a military engagement between the Armed Forces of Ukraine and the Armed Forces of Russia in the city of Melitopol, Zaporizhzhia Oblast. It was part of the southern Ukraine offensive of the 2022 Russian invasion of Ukraine. Russian forces attacked the city on 25 February, and captured it after heavy fighting by 1 March. After the battle ended, citizens held street protests against the military occupation. On 11 March, the city mayor was arrested by Russian troops for refusing to cooperate, but later released on 16 March in exchange for nine Russian prisoners of war.
+The **Battle of Melitopol** was a military engagement between the Armed Forces of Ukraine and the Armed Forces of Russia in the city of Melitopol, Zaporizhzhia Oblast. It was part of the southern Ukraine offensive of the 2022 Russian invasion of Ukraine. Russian forces attacked the city on 25 February, and captured it after heavy fighting by 1 March. After the battle ended, citizens held street protests against the military occupation. On 11 March, the city mayor was arrested by Russian troops for refusing to cooperate, but later released on 16 March in exchange for nine Russian prisoners of war.
 
 ## Background
 Melitopol is the second largest city in Zaporizhzhia Oblast (region) after its capital, Zaporizhzhia. It is situated on the Molochna River that flows through the eastern edge of the city and into the Molochnyi Lyman, which eventually joins the Sea of Azov. Its population before the invasion was estimated as.

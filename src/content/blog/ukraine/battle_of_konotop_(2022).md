@@ -9,7 +9,7 @@ description: The Battle of Konotop was a military engagement that took place
   February, burned Russian equipment was seen in Konotop and its outskirts,
   while the city was besieged by the Russian army.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-26
 img: /FileBattle_of_Konot.jpg
 ---
 
@@ -25,11 +25,10 @@ On 2 March, Artem Seminikhin, the mayor of Konotop, stated that Russian forces i
 
 Later in the day, city authorities began negotiations with Russian forces, with talks lasting 12 minutes. An agreement was reached under which Russian forces accepted not to change the city's government, deploy troops in the city, obstruct transportation, or remove the Ukrainian flag. In return, the city officials agreed that the residents would not attack Russian forces.
 
-On 3 April, Ukrainian MP Olexander Kachura stated on Twitter that all Russian forces had left Konotop Raion. On 4 April 2022 Sumy Oblast's Governor Dmytro Zhyvytskyi stated that Russian troops no longer occupied any towns or villages in Sumy Oblast and had mostly withdrawn, while Ukrainian troops were working to push out the remaining units.
+On 4 April 2022 Sumy Oblast's Governor Dmytro Zhyvytskyi stated that Russian troops no longer occupied any towns or villages in Sumy Oblast and had mostly withdrawn, while Ukrainian troops were working to push out the remaining units.
 
 ## References
 ## References[object Object]
-[object Object]
 [object Object]
 [object Object]
 [object Object]

@@ -1,17 +1,17 @@
 ---
 subject: Battle of Okhtyrka
 shortDescription: Battle in the 2022 Russian invasion of Ukraine
-description: The battle of Okhtyrka was a military engagement in and around
+description: The Battle of Okhtyrka was a military engagement in and around
   Okhtyrka city in Sumy Oblast of Ukraine. It began on 24 February 2022, as part
   of the Northeastern Ukraine offensive during the 2022 Russian invasion of
   Ukraine. Fighting began in the outskirts of the city as Russian forces
   attempted to occupy the city.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-27
 img: /FileOkhtyrka_City_C.jpg
 ---
 
-The **battle of Okhtyrka** was a military engagement in and around Okhtyrka city in Sumy Oblast of Ukraine. It began on 24 February 2022, as part of the Northeastern Ukraine offensive during the 2022 Russian invasion of Ukraine. Fighting began in the outskirts of the city as Russian forces attempted to occupy the city. The initial advance was repelled, and the city was attacked by artillery fire. On March 26, 2022, it was reported that the strategic stronghold of Trostianets was taken back by Ukrainian Forces. This disrupted Russian communications and supply routes, threatening the Russian front.
+The **Battle of Okhtyrka** was a military engagement in and around Okhtyrka city in Sumy Oblast of Ukraine. It began on 24 February 2022, as part of the Northeastern Ukraine offensive during the 2022 Russian invasion of Ukraine. Fighting began in the outskirts of the city as Russian forces attempted to occupy the city. The initial advance was repelled, and the city was attacked by artillery fire. On March 26, 2022, it was reported that the strategic stronghold of Trostianets was taken back by Ukrainian Forces. This disrupted Russian communications and supply routes, threatening the Russian front.
 
 The Russian offensive has been criticized for civilian casualties and the use of cluster bombs, which may constitute war crimes.
 

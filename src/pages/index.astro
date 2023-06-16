@@ -6,8 +6,11 @@ import NewsSummary from "../components/teasers/NewsSummary.astro";
 import SmallTeaser from "../components/teasers/SmallTeaser.astro";
 import DefaultLayout from "../layouts/DefaultLayout.astro";
 import ListTeaserItem from "../components/teasers/ListTeaserItem.astro";
+import dayjs from "dayjs";
 
-const posts = (await getCollection("blog")).sort(
+const posts = (await getCollection("blog"))
+.filter((e) => dayjs(e.data.pubDate).isBefore(dayjs().add(10, 'days')))
+.sort(
   (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
 );
 ---
@@ -29,10 +32,10 @@ const posts = (await getCollection("blog")).sort(
   <div
     class="grid md:grid-cols-3 xl:grid-cols-4 relative mt-3 divide-x-2 divide-y divide-y-reverse"
   >
-    {posts[6] && <LargeTeaser href={`${posts[6].collection}/${posts[6].slug}`} {...posts[6].data}  />}
+    {posts.filter((post) => post.data.img)[6] && <LargeTeaser href={`${posts.filter((post) => post.data.img)[6].collection}/${posts.filter((post) => post.data.img)[6].slug}`} {...posts.filter((post) => post.data.img)[6].data}  />}
     <SmallTeaser
       type="Analysis"
-      href={`${posts[6].collection}/${posts[6].slug}`} {...posts[5].data}
+      href={`${posts.filter((post) => post.data.img)[5].collection}/${posts.filter((post) => post.data.img)[5].slug}`} {...posts[5].data}
     />
     <NewsSummary>
       {posts.slice(6, 16).map((post) => (

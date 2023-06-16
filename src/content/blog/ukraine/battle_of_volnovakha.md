@@ -1,7 +1,7 @@
 ---
 subject: Battle of Volnovakha
 shortDescription: Engagement during the 2022 Russian invasion of Ukraine
-description: The battle of Volnovakha was a military engagement which lasted
+description: The Battle of Volnovakha was a military engagement which lasted
   from 25 February 2022 until 12 March 2022, as part of the Eastern Ukraine
   offensive during the 2022 Russian invasion of Ukraine. Russian and DPR forces
   engaged Ukrainian forces at the small city of Volnovakha in Donetsk Oblast,
@@ -9,11 +9,11 @@ description: The battle of Volnovakha was a military engagement which lasted
   by DPR forces and led to the widespread destruction of the town and heavy
   casualties on both sides.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-07-01
 img: /FileVolnovakha_shel.jpg
 ---
 
-The **battle of Volnovakha** was a military engagement which lasted from 25 February 2022 until 12 March 2022, as part of the Eastern Ukraine offensive during the 2022 Russian invasion of Ukraine. Russian and DPR forces engaged Ukrainian forces at the small city of Volnovakha in Donetsk Oblast, which is located close to the Ukrainian-DPR border.
+The **Battle of Volnovakha** was a military engagement which lasted from 25 February 2022 until 12 March 2022, as part of the Eastern Ukraine offensive during the 2022 Russian invasion of Ukraine. Russian and DPR forces engaged Ukrainian forces at the small city of Volnovakha in Donetsk Oblast, which is located close to the Ukrainian-DPR border.
 
 The battle was spearheaded by DPR forces and led to the widespread destruction of the town and heavy casualties on both sides.
 

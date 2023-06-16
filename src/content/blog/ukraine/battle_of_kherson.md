@@ -1,19 +1,19 @@
 ---
 subject: Battle of Kherson
-shortDescription: Engagement during the 2022 Russian invasion of Ukraine
-description: The Battle of Kherson was a military engagement between Russian and
+shortDescription: Engagement during the Russian invasion of Ukraine
+description: The battle of Kherson was a military engagement between Russian and
   Ukrainian forces that began on 24 February 2022 as part of the southern
-  Ukraine offensive of the 2022 Russian invasion of Ukraine. The battle ended on
-  2 March 2022 with the capture of the city of Kherson and a pocket of land on
-  the right bank of the Dnieper river by Russian forces. It was the first major
+  Ukraine campaign of the Russian invasion of Ukraine. The battle ended on 2
+  March 2022 with the capture of the city of Kherson and a pocket of land on the
+  right bank of the Dnieper river by Russian forces. It was the first major
   city, and the only regional capital, to be captured by Russian forces during
-  the 2022 invasion.
+  the invasion.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-23
 img: /FileBatalla_de_Kher.jpg
 ---
 
-The **Battle of Kherson** was a military engagement between Russian and Ukrainian forces that began on 24 February 2022 as part of the southern Ukraine offensive of the 2022 Russian invasion of Ukraine. The battle ended on 2 March 2022 with the capture of the city of Kherson and a pocket of land on the right bank of the Dnieper river by Russian forces. It was the first major city, and the only regional capital, to be captured by Russian forces during the 2022 invasion. The Russian occupation of Kherson Oblast followed thereafter.
+The **battle of Kherson** was a military engagement between Russian and Ukrainian forces that began on 24 February 2022 as part of the southern Ukraine campaign of the Russian invasion of Ukraine. The battle ended on 2 March 2022 with the capture of the city of Kherson and a pocket of land on the right bank of the Dnieper river by Russian forces. It was the first major city, and the only regional capital, to be captured by Russian forces during the invasion. The Russian occupation of Kherson Oblast followed thereafter.
 
 On 29 August 2022, a Ukrainian counteroffensive in the oblast resulted in Russian forces withdrawing from Kherson and retreating across the Dnieper on 9 November 2022. Two days later, Ukrainian forces regained control of the area.
 
@@ -54,7 +54,7 @@ According to Mykolaiv Oblast governor, Vitaliy Kim, Russian forces began demolis
 ![Volodymyr Zelenskyy took part in hoisting the State Flag of Ukraine in liberated Kherson. (52502054830)](https://wikipedia.org/wiki/Special:Redirect/file/Volodymyr_Zelenskyy_took_part_in_hoisting_the_State_Flag_of_Ukraine_in_liberated_Kherson._(52502054830).jpg?)
 On 3 November 2022, eight months after the battle ended, Russian forces removed their flag from the city administrative building and advised remaining people to leave the city and cross the river to the southern bank.
 
-As part of the 2022 Ukrainian southern counteroffensive, Russian troops retreated across the river Dnipro. Ukrainian troops went further into Kherson Oblast and surrounding areas. On 9 November 2022 General of the Army Sergey Surovikin announced that Russian forces would abandon the city and move to the eastern or left bank. On 11 November 5 a.m. Moscow time (2 a.m. UTC) the Russian Ministry of Defence claimed on that all soldiers (approximately 30,000) and all military equipment had been successfully moved across the river in an orderly withdrawal. Some analysts doubted that such an exercise could be conducted in a matter of three days. The Ukrainian Defence Minister Oleksii Reznikov told Reuters: 'It's not that easy to withdraw these troops from Kherson in one day or two days. As a minimum, [it will take] one week' to move them all (40,000 by his estimate).
+As part of the 2022 Kherson counteroffensive, Russian troops retreated across the river Dnipro. Ukrainian troops went further into Kherson Oblast and surrounding areas. On 9 November 2022 General of the Army Sergey Surovikin announced that Russian forces would abandon the city and move to the eastern or left bank. On 11 November 5 a.m. Moscow time (2 a.m. UTC) the Russian Ministry of Defence claimed on that all soldiers (approximately 30,000) and all military equipment had been successfully moved across the river in an orderly withdrawal. Some analysts doubted that such an exercise could be conducted in a matter of three days. The Ukrainian Defence Minister Oleksii Reznikov told Reuters: 'It's not that easy to withdraw these troops from Kherson in one day or two days. As a minimum, [it will take] one week' to move them all (40,000 by his estimate).
 
 On Russian social media, many troops appeared to be in panic as they sought to escape, with pro-Kremlin bloggers echoing panic, suggesting a collapse in morale and logistics. Many reports from journalists, Ukrainian civilians and authorities as well as individual Russian soldiers indicated that the withdrawal had been rather chaotic, with many Russian servicemen and materiel left behind on the right bank. DW reported that major equipment pieces such as anti-aircraft defence systems appeared to have been successfully transferred to the other bank, but this would leave troops stuck on the northern side vulnerable to Ukrainian artillery and drone attacks. Groups of Russian soldiers (some of them wounded) were reportedly captured, or voluntarily surrendered to advancing Ukrainian forces. Ukrainian official Serhiy Khlan stated that some Russian soldiers failed to leave Kherson, and changed into civilian clothing. One unidentified Russian soldier appeared to confirm that the last order his unit received was 'to change into civilian clothing and fuck off any way you want'. Some Russian soldiers reportedly drowned while trying to swim across the Dnipro. Ukrainian intelligence posted a Russian-language statement on social media, calling on remaining Russian soldiers to surrender. Footage on social media suggested that Ukrainian troops had captured several Russian tanks, armoured vehicles and crates of ammunition, contradicting the Russian Defence Ministry's statement that '[n]ot a single piece of military equipment or weaponry was left behind on the right [west] bank'.
 

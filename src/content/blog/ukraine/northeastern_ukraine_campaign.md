@@ -10,7 +10,8 @@ description: The northeastern Ukraine campaign was a theatre of operation from
   forces had withdrawn from Chernihiv Oblast, which was confirmed by the
   Pentagon by 6 April.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-18
+img: /FileAttack_on_the_c.jpg
 ---
 
 The **northeastern Ukraine campaign** was a theatre of operation from 24 February to 8 April 2022 in the 2022 Russian invasion of Ukraine for control of two provinces (oblasts) in Ukraine — Chernihiv Oblast and Sumy Oblast. On 4 April 2022, Ukrainian authorities said that Russian troops had mostly withdrawn from Sumy Oblast and no longer occupied any towns or villages in the area. Later that evening Ukrainian authorities claimed that Russian forces had withdrawn from Chernihiv Oblast, which was confirmed by the Pentagon by 6 April. In addition, it took place from February 24 to May 14 in Kharkiv Oblast. On 14 May, the ISW reported that: “Ukraine thus appears to have won the battle of Kharkiv.” The Mayor of Kharkiv said to the BBC: "There was no shelling in the city for the last five days. There was only one attempt from Russians to hit the city with a missile rocket near Kharkiv airport, but the missile was eliminated by Ukrainian Air Defence."
@@ -173,7 +174,7 @@ Russian forces again shelled several villages in the Kharkiv district, including
 On 21 May, in a statement the Ukrainian police confirmed the recovery of the bodies of six military officials, including a Russian colonel, in the settlement of Zolochiv.
 
 #### 22 May
-Russian forces made minimal progress in eastern Ukraine. New reports have confirmed that Russian troops had previously occupied Rubizhne in the northern Kharkiv Oblast on May 19. Russian forces have brought in additional reinforcements to maintain their positions on the west bank of the Seversky Donets River in northern Kharkov - instead of retreating across the river to use it as a defensive position - to prevent any further advance by Ukraine north or east that could to jeopardize Russian lines of communication along the Izium axis.
+Russian forces made minimal progress in eastern Ukraine. New reports have confirmed that Russian troops had previously occupied Rubizhne in the northern Kharkiv Oblast on May 19. Russian forces have brought in additional reinforcements to maintain their positions on the west bank of the Seversky Donets River in northern Kharkiv - instead of retreating across the river to use it as a defensive position - to prevent any further advance by Ukraine north or east that could to jeopardize Russian lines of communication along the Izium axis.
 
 #### 24 May
 Russian forces attempted to retake Ternova in northern Kharkiv Oblast.

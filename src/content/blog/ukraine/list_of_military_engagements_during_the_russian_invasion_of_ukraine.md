@@ -8,8 +8,7 @@ description: This is a list of military engagements during the Russian invasion
   Battles generally refer to short periods of intense combat localised to a
   specific area and over a specific period.
 author: Wikipedia
-pubDate: 2022-02-19
-img: /File2022_Russian_in.svg
+pubDate: 2023-06-16
 ---
 
 ![2022 Russian invasion of Ukraine](https://wikipedia.org/wiki/Special:Redirect/file/2022_Russian_invasion_of_Ukraine.svg?)
@@ -71,15 +70,16 @@ This is a list of military engagements during the Russian invasion of Ukraine en
 | Battle of Pisky |     Donetsk    |  28 July 2022  | 24 August 2022 |     Eastern    | Russian victory |
 | Battle of Bakhmut |     Donetsk    |  1 August 2022 |                |     Eastern    |     Ongoing    |
 | Battle of Soledar |     Donetsk    |  3 August 2022 | 16 January 2023 |     Eastern    | Russian victory |
-| Battles of Pervomaiske and Vodiane |     Donetsk    | 15 August 2022 |                |     Eastern    |     Ongoing    |
+| Battles of Donetsk Suburbs |     Donetsk    | 15 August 2022 |                |     Eastern    |     Ongoing    |
 | Kherson counteroffensive | Kherson, Mykolaiv | 29 August 2022 | 11 November 2022 |    Southern    | Ukrainian victory |
 | Kharkiv counteroffensive | Kharkiv, Donetsk | 6 September 2022 | 2 October 2022 |     Eastern    | Ukrainian victory |
 | Battle of Balakliia |     Kharkiv    | 6 September 2022 | 8 September 2022 |     Eastern    | Ukrainian victory |
 | Battle of Kupiansk |     Kharkiv    | 8 September 2022 | 16 September 2022 |     Eastern    | Ukrainian victory |
 | Second Battle of Lyman |     Donetsk    | 10 September 2022 | 1 October 2022 |     Eastern    | Ukrainian victory |
 | Battle of the Svatove–Kreminna line |     Luhansk    | 2 October 2022 |                |     Eastern    |     Ongoing    |
-| Siege of Paraskoviivka |     Donetsk    | 16 January 2023 | 18 February 2023 |     Eastern    | Russian victory |
+| Battle of Paraskoviivka |     Donetsk    | 16 January 2023 | 18 February 2023 |     Eastern    | Russian victory |
 | Battle of Vuhledar |     Donetsk    | 24 January 2023 |                |     Eastern    |     Ongoing    |
+| 2023 Ukrainian counteroffensive | Zaporizhzhia, Donetsk |   8 June 2023  |                |     Eastern    |     Ongoing    |
 
 
 

@@ -12,7 +12,7 @@ description: During the 2022 Russian invasion of Ukraine, the Chernobyl
   the Russian military abandoned the Kyiv offensive to focus on operations in
   Eastern Ukraine.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-21
 img: /FileBattle_of_Chern.png
 ---
 
@@ -30,6 +30,8 @@ Chernobyl is 130 km north of Kyiv and the regional road PO2 connecting Chernobyl
 At 7 a.m. on 24 February 2022, a scheduled shift change for the workers in the power plant was cancelled, the workers being informed that Russia had launched a full-out invasion of Ukraine, and that the plant was to be put on high alert. That morning, there were around 300 people within the exclusion zone, including nuclear staff, medical staff, firefighters, 169 National Guard of Ukraine soldiers, and four tourists.
 
 A few hours later, Russian forces that had been stationed in Belarus broke into the exclusion zone through the village of Vilcha. By 2 p.m., they had reached the power plant's main administration office. In the following hours, the National Guard commanders and the staff administration negotiated a surrender with the Russian forces, and the Ukrainian government publicly announced that Russian forces had launched an attack on the Chernobyl Exclusion Zone.
+
+The Ukrainian garrison in Chernobyl were not armed heavy weapons or equipment and could not fight Russian armored vehicles. The Ukrainian soldiers were encircled and two Tigr armored vehicles of the Russian Special Operations Forces entered the territory of the Nuclear Power Plant and gave an ultimatum, forcing the National Guard soldiers to surrender immediately.
 
 By the end of the day, the Ukrainian government announced that Russian forces had captured Chernobyl and Pripyat. Following the Russian capture of the exclusion zone, the American government announced "credible reports that Russian soldiers are currently holding the staff of the Chernobyl facilities hostage".
 
@@ -81,6 +83,7 @@ The exclusion zone is important for containing fallout from the Chernobyl nuclea
 
 ## Further reading
 ## References[object Object]
+[object Object]
 [object Object]
 [object Object]
 [object Object]

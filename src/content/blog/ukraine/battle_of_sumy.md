@@ -10,7 +10,7 @@ description: The Battle of Sumy was a military engagement which began on 24
   within the city, resulting in heavy urban fighting and the destruction of a
   Russian tank column.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-24
 img: /FileStorage_buildin.jpg
 ---
 
@@ -35,7 +35,7 @@ On 26 February, fighting again broke out on the streets of Sumy. Russian forces 
 
 On the morning of 27 February, a column of Russian vehicles advanced into Sumy from the east. A civilian car was shot at, resulting in civilian casualties. Russian forces reportedly ran out of supplies and began attempting to loot markets.
 
-On 28 February, Ukrainian forces claimed that Ukrainian Baykar Bayraktar TB2 unmanned combat aerial vehicles destroyed many Russian vehicles, including 96-100 tanks, 20 BM-21 Grad vehicles, and 8 fuel carriers.
+On 28 February, Ukrainian forces claimed that Ukrainian Baykar Bayraktar TB2 unmanned combat aerial vehicles destroyed many Russian vehicles, including 96-100 tanks, 20 BM-21 Grad vehicles, and 8 fuel carriers near Lebedyn.
 
 On 1 March, over 70 Ukrainian troops were killed during an attack on a military barracks in Okhtyrka.
 

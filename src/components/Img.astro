@@ -1,0 +1,9 @@
+---
+// @ts-ignore
+import { renderImg } from "astro-imagetools/api";
+
+
+const { link, style, img } = await renderImg(Astro.props as any).catch(() => ({link: '', style: '', img: ''})).catch(console.error);
+---
+
+<Fragment set:html={link + style + img} />

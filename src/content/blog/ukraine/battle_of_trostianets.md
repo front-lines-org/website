@@ -1,18 +1,18 @@
 ---
 subject: Battle of Trostianets
 shortDescription: Battle in the 2022 Russian invasion of Ukraine
-description: The battle of Trostianets was a military engagement during the 2022
+description: The Battle of Trostianets was a military engagement during the 2022
   Russian invasion of Ukraine. The city of Trostianets, in Sumy Oblast, was
   attacked by Russian forces of the 1st Guards Tank Army in late February as
   part of the Northeastern Ukraine offensive. Occupied for just over a month, it
   was re-captured by Ukrainian forces in late March, with the 1st Guards being
   badly mauled in the processes.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-28
 img: /FileCleanup_of_Tros.jpg
 ---
 
-The **battle of Trostianets** was a military engagement during the 2022 Russian invasion of Ukraine. The city of Trostianets, in Sumy Oblast, was attacked by Russian forces of the 1st Guards Tank Army in late February as part of the Northeastern Ukraine offensive. Occupied for just over a month, it was re-captured by Ukrainian forces in late March, with the 1st Guards being badly mauled in the processes.
+The **Battle of Trostianets** was a military engagement during the 2022 Russian invasion of Ukraine. The city of Trostianets, in Sumy Oblast, was attacked by Russian forces of the 1st Guards Tank Army in late February as part of the Northeastern Ukraine offensive. Occupied for just over a month, it was re-captured by Ukrainian forces in late March, with the 1st Guards being badly mauled in the processes.
 
 ## Battle
 
@@ -34,6 +34,7 @@ During the fighting and shelling, the Krasnotrostyanets forest experimental stat
 
 ## References
 ## References[object Object]
+[object Object]
 [object Object]
 [object Object]
 [object Object]

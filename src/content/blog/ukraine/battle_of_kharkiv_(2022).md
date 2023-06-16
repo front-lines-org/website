@@ -10,8 +10,7 @@ description: The Battle of Kharkiv was a military engagement that took place
   Russian military early in the invasion. By 13 May, Ukrainian forces pushed
   Russian units attempting to encircle the city back towards the Russian border.
 author: Wikipedia
-pubDate: 2022-02-19
-img: /FileKharkiv_downtow.jpg
+pubDate: 2023-06-22
 ---
 
 The **Battle of Kharkiv** was a military engagement that took place from February to May 2022 in and around the city of Kharkiv in Ukraine, as part of the northeastern Ukraine offensive and eastern Ukraine offensive during the 2022 Russian invasion of Ukraine. Kharkiv, located just 30 km south of the Russia–Ukraine border and a predominately Russian-speaking city, is the second-largest city in Ukraine and was considered a major target for the Russian military early in the invasion.
@@ -94,7 +93,7 @@ On 28 March, Kharkiv Mayor Ihor Terekhov said that about 30% of city's residents
 Amid the heightened Russian shelling of Kharkiv on 31 March 2022, Russian authorities attributed an explosion at an oil supply depot approximately 25 mi north of the border in Belgorod within Russia to an attack by two Ukrainian Mi-24 military helicopters. Meanwhile, the Russians claimed to have killed, on the same day, more than 100 "extremists and mercenaries" from Western countries in Kharkiv with a high-precision Iskander missile strike on a defense base.
 
 ### Russian bypass (April)
-On 2 April, according to Synyehubov, the Russians were bypassing Izyum to continue to the Luhansk and Donetsk regions. On 3 April 2022, the Ukrainian government stated that two Russian soldiers had been killed and 28 others hospitalised after Ukrainian civilians handed out poisoned cakes to Russian soldiers of the Russian 3rd Motor Rifle Division in Kharkiv. They also claimed that 500 more soldiers, also from the same division, are in hospital suffering from heavy alcohol poisoning “of unknown origin,” and that the Russian command is writing off these cases as “not combat losses.”
+On 2 April, according to Synyehubov, the Russians were bypassing Izyum to continue to the Luhansk and Donetsk regions. On 3 April 2022, the Ukrainian government stated that two Russian soldiers had been killed and 28 others hospitalised after Ukrainian civilians handed out poisoned cakes to Russian soldiers of the Russian 3rd Motor Rifle Division in Kharkiv. They also claimed that 500 more soldiers, also from the same division, were in hospital suffering from heavy alcohol poisoning “of unknown origin,” and that the Russian command is writing off these cases as “not combat losses.”
 
 Despite limited Russian withdrawals to the north of the city and the Ukrainian forcing of the road to Chuhuiv, on 4 April, the Ukraine's defence ministry warned that the invaders were preparing to launch a new assault to take the city from the east.
 
@@ -141,7 +140,7 @@ On 17–18 August, 25 people were killed and several dozen were injured in a mis
 
 On 2 September 2022, a missile strike damaged Lokomotyv Sports Palace.
 
-On 6 September 2022, Ukrainian forces launched a major counteroffensive. Three days later, Ukrainian troops liberated Izyum, Balakliia and other settlements. Between 6–11 September alone, the Ukrainians claimed to have killed 2,850 Russian soldiers and to have destroyed up to 590 pieces of military equipment, including 86 tanks, 158 armoured combat vehicles, 106 artillery systems, 159 vehicles and 46 other equipment systems. According to Oryx, they also captured an additional 129 pieces of military equipment.
+On 6 September 2022, Ukrainian forces launched a major counteroffensive. Three days later, Ukrainian troops liberated Izyum, Balakliia and other settlements. Between 6–11 September alone, the Ukrainians claimed to have killed 2,850 Russian soldiers and to have destroyed up to 590 pieces of military equipment, including 86 tanks, 158 armoured combat vehicles, 106 artillery systems and 159 vehicles. 46 other equipment systems were also lost, including 6 planes and 7 helicopters. According to Oryx, they also captured an additional 129 pieces of military equipment.
 
 On 11 September, Russian army shelled infrastructure facilities in central and eastern Ukraine, including Kharkiv TEC-5 and Zmiiv thermal power station in Kharkiv region. This caused extensive power outages in 5 regions of Ukraine and is thought to be the response to the Ukrainian counteroffensive.
 
@@ -149,12 +148,14 @@ On 11 September, Russian army shelled infrastructure facilities in central and e
 
 
 ### Civilian casualties
-During the battle, at least 606 civilians were killed due to Russian shelling and fighting for the city. Due to the fog of war, it is impossible to tabulate total casualties for the Battle of Kharkiv. Additionally, various skirmishes around Kharkiv's suburbs have led to casualties for both the Russian and Ukrainian Armed Forces.
+During the battle, at least 606 civilians were killed due to Russian shelling and fighting for the city. Due to the fog of war, it is impossible to tabulate total casualties for the battle of Kharkiv. Additionally, various skirmishes around Kharkiv's suburbs have led to casualties for both the Russian and Ukrainian Armed Forces.
 
 ### Military casualties
 Like the civilian death toll, the true number of military casualties is impossible to estimate due to the fog of war and opposing governments' inflation or deflation of numbers in order to boost morale.
 
-During the course of the battle, the Ukrainian government claimed to have killed over 4,000 Russian troops. On 3 March, Ukraine claimed to have destroyed a 120-man unit of airborne soldiers. On 5 March, Ukraine counterattacked and claimed to have wiped out the 144th Guards Motor Rifle Division‘s 488th Motor Rifle Regiment, killing around 1,600 Russian soldiers. The rest of the division was reportedly pushed back across the border into Russia. On 26 March, Ukraine claimed to have killed 645 soldiers from a single unit from the 200th Separate Motor Rifle Brigade. Reportedly, only three men survived, two of whom were wounded. 30 units of military equipment were also destroyed, including armored vehicles and trucks. On 29 March, Ukraine claimed to have completely destroyed 2 battalion tactical groups, also from the 200th Brigade, and inflicted casualties on others, killing more than 1,500 soldiers. On 21 May, in a statement the Ukrainian police confirmed the recovery of the bodies of six military officials, including a Russian colonel, in the settlement of Zolochiv. On 30 May, the Ukrainians repatriated the bodies of a further 62 Russian servicemen in the Kharkiv Region. According to documents captured by the Ukrainians, the 1st Guards Tank Army lost 308 military vehicles (including 131 tanks), or between one-quarter and one-half of its strength, in the first three weeks of fighting for Kharkiv.
+During the course of the battle, the Ukrainian government claimed to have killed over 4,000 Russian troops. On 3 March, Ukraine claimed to have destroyed a 120-man unit of airborne soldiers. On 5 March, Ukraine counterattacked and claimed to have wiped out the 144th Guards Motor Rifle Division‘s 488th Motor Rifle Regiment, killing around 1,600 Russian soldiers, with the rest of the division reportedly being pushed back across the border into Russia. On 26 March, Ukraine claimed to have killed 645 soldiers from a single unit from the 200th Separate Motor Rifle Brigade. Reportedly, only three men survived, two of whom were wounded. 30 units of military equipment were also destroyed, including armored vehicles and trucks. On 29 March, Ukraine claimed to have completely destroyed 2 battalion tactical groups, also from the 200th Brigade, and inflicted casualties on others, killing more than 1,500 soldiers. On 21 May, in a statement the Ukrainian police confirmed the recovery of the bodies of six military officials, including a Russian colonel, in the settlement of Zolochiv. On 30 May, the Ukrainians repatriated the bodies of a further 62 Russian servicemen in the Kharkiv Region.
+
+According to documents captured by the Ukrainians, the 1st Guards Tank Army lost 308 military vehicles (including 131 tanks), or between one-quarter and one-half of its strength, in the first three weeks of fighting for Kharkiv. A breakdown of these losses revealed that the 1st Guards Tank Regiment (part of the 2nd Motor-Rifle Division) lost 45 out of its 93 upgraded T-72B3M tanks — i.e. nearly 50% of its combat strength. The 4th Tank Division's three maneuver regiments lost 65 T-80U and T-80UE tanks, and six T-72BVs. That's around 33% of its expected strength of 200-217 tanks. The 27th Motor-Rifle brigade lost nine of its 31 T-90A tanks (29%). Infantry fighting vehicles losses are also startling with the loss of battalion equivalent each of BMP-2 infantry fighting vehicles and BTR-80 wheeled APCs across three motor-rifle regiments Also according to the document, the army’s manpower losses in the first two weeks of the war alone were 61 Russians killed and 209 wounded. In addition, 44 Russian tankmen went missing, and 96 were captured, with the total casualties of the 1st Tank Army amounting to 409 soldiers.
 
 The Russian government, on the other hand, gave very sparse updates as to Ukrainian casualties but claimed to have killed up to 276 Ukrainian fighters by 2 April, including 130 mercenaries, although this number is likely much higher due to the irregularity of Russian updates.
 
@@ -167,6 +168,8 @@ On 13 June, Amnesty International published a report saying that Russian forces 
 
 ## References
 ## References[object Object]
+[object Object]
+[object Object]
 [object Object]
 [object Object]
 [object Object]

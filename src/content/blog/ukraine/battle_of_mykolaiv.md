@@ -1,7 +1,7 @@
 ---
 subject: Battle of Mykolaiv
 shortDescription: Battle in the Russian invasion of Ukraine
-description: The battle of Mykolaiv started on the night of 26 February 2022, as
+description: The Battle of Mykolaiv started on the night of 26 February 2022, as
   part of the southern Ukraine campaign during the Russian invasion of Ukraine.
   It ended in Russian forces being repulsed from the city in March, and by April
   all but a few of its surrounding villages were under Ukrainian control.
@@ -9,11 +9,11 @@ description: The battle of Mykolaiv started on the night of 26 February 2022, as
   Sea and on 4 March was "seen as the next key stepping-stone for Russian forces
   on the road to Odesa."
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-30
 img: /FileMykolaiv_Region.jpg
 ---
 
-The **battle of Mykolaiv** started on the night of 26 February 2022, as part of the southern Ukraine campaign during the Russian invasion of Ukraine. It ended in Russian forces being repulsed from the city in March, and by April all but a few of its surrounding villages were under Ukrainian control.
+The **Battle of Mykolaiv** started on the night of 26 February 2022, as part of the southern Ukraine campaign during the Russian invasion of Ukraine. It ended in Russian forces being repulsed from the city in March, and by April all but a few of its surrounding villages were under Ukrainian control.
 
 Mykolaiv is a strategically important shipbuilding and port city on the Black Sea and on 4 March was "seen as the next key stepping-stone for Russian forces on the road to Odesa."
 
@@ -24,7 +24,7 @@ During the afternoon hours of 26 February 2022, 12 Russian tanks managed to brea
 
 
 ### First assault
-By around 18:52, tanks were in the outskirts of the city and the mayor ordered citizens to stay at home and as far away from windows as possible. Shortly after, troops entered the city and a battle on the Southern Buh erupted around ten minutes later. According to some reports, tanks "passed through the city". Russian forces had also taken over the Mykolaiv Zoo.
+By around 18:52, tanks were in the outskirts of the city and the mayor ordered citizens to stay at home and as far away from windows as possible. Shortly after, troops entered the city and a battle on the Southern Bug erupted around ten minutes later. According to some reports, tanks "passed through the city". Russian forces had also taken over the Mykolaiv Zoo.
 
 After roughly three hours of fighting, Russian forces were driven away by Ukrainian forces, and while some Russian tanks reportedly bypassed the city, fighting continued. Extensive fighting was recorded in Korabel'nyy Raion, on 6th Slobidska Street, and on Central Avenue.
 

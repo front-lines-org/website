@@ -10,7 +10,7 @@ description: The southern Ukraine campaign is an ongoing theatre of operation in
   surround and bombard the city of Mariupol in Donetsk Oblast, which fell after
   months of siege.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-23
 img: /File2022_Kherson-My.png
 ---
 
@@ -131,7 +131,7 @@ On 15 March, Russian Defense Ministry stated that Russian forces had captured al
 
 Gennady Korban, head of Staff of Dnipro Oblast's Territorial Defense Forces, stated that the region was prepared for a Russian offensive, unlike Kherson and Zaporizhzhia oblasts. He added that Russian forces were staging in the settlements of Velyka Oleksandrivka, Novovorontsovka and Arkhanhelske. Landing ships of the Russian Navy meanwhile approached the coast of Odesa in three groups, including the *Ivan Gren*-class landing ship *Pyotr Morgunov*. Russian fighter jets and warships attacked settlements in Odesa Oblast during the day, according to Ukrainian officials. Attacks on one of the settlements in the morning wounded two people.
 
-On 16 March, the Ukrainian government said that its forces had begun a counteroffensive near Mykolaiv towards Kherson, and captured the town of Posad-Pokrovske, Ukrainian control of the town was independently confirmed five days later. Meanwhile, Starukh stated that Russian forces had targeted civilian areas in the city of Zaporizhzhia for the first time, with rockets hitting the Zaporozhye-2 railway station. The city has acted as the first safe port for refugees fleeing Mariupol. Oleksandr Yakovlev, the mayor of Skadovsk, was arrested by Russian soldiers during the day. He however stated a few hours later that they had released him. Melitopol's mayor Ivan Fedorov was meanwhile freed as well. Some Ukrainian officials claimed he was freed in a "special operation". However, Ukrainian President Volodymyr Zelenskyy's press aide Darya Zarivnaya later said that he was exchanged for nine Russian conscripts captured by Ukrainian forces.
+On 16 March, the Ukrainian government said that its forces had begun a counteroffensive near Mykolaiv towards Kherson, and captured the town of Posad-Pokrovske, Ukrainian control of the town was independently confirmed five days later. Meanwhile, Starukh stated that Russian forces had targeted civilian areas in the city of Zaporizhzhia for the first time, with rockets hitting the Zaporizhzhia-2 railway station. The city has acted as the first safe port for refugees fleeing Mariupol. Oleksandr Yakovlev, the mayor of Skadovsk, was arrested by Russian soldiers during the day. He however stated a few hours later that they had released him. Melitopol's mayor Ivan Fedorov was meanwhile freed as well. Some Ukrainian officials claimed he was freed in a "special operation". However, Ukrainian President Volodymyr Zelenskyy's press aide Darya Zarivnaya later said that he was exchanged for nine Russian conscripts captured by Ukrainian forces.
 
 By 20 March, Russia had completely encircled Mariupol with infantry and demanded a full surrender of the city, which Zelenskyy refused. On 24 March, Russian forces entered central Mariupol, seizing the Church of the Intercession of the Mother of God. The city administration alleged that Russians were trying to demoralize residents by publicly shouting claims of Russian victories, including statements that Odesa had been captured. On 27 March, as Russian forces entered the second phase of their invasion of Ukraine, Ukraine's deputy prime minister, Olha Stefanishyna, stated that Mariupol "simply does not exist anymore," and that Russia's objectives have "nothing to do with humanity." Stefanishyna summarized that: "They (Mariupol's inhabitants) don’t have access to water, to any food supplies, to anything. More than 85 percent of the whole town is destroyed."
 
@@ -166,6 +166,11 @@ On 11 November, Ukrainian troops entered the city of Kherson, and were met by cr
 In December 2022, following previous successful counter-offensives, speculation among Western analysts and media about a prospective Ukrainian campaign to retake Crimea abounded. In the event of such an offensive, observers and analysts suggested Ukraine could attack along the Zaporizhzhia front and advance towards the strategic city of Melitopol to cut Russia's "landbridge to Crimea." Throughout the month, Russia reinforced its defense lines in southern Ukraine, particularly along the Zaporizhzhia and Kherson fronts. Attacks on "collaborators" and Russian agents by apparent Ukrainian partisans and saboteurs continued.
 
 On 23 December, Ukraine's mayor of Melitopol Ivan Fedorov said the Russians were transforming the city into a fortress, replete with dragon's teeth defenses. Meanwhile, satellite imagery showed that Russian troops had established trenches around the perimeters of Tokmak in Zaporizhzhia Oblast, considered a strategic city on the approach towards Melitopol.
+
+On 15 May 2023, Ukrainian military intelligence estimated that the Russians had stationed 152,000 troops in Kherson and Zaporizhzhia oblasts in anticipation of a potential Ukrainian counteroffensive.
+
+### 2023 Counteroffensive
+In early June, 2023, Ukrainian forces launched another counteroffensive on the southern front, focusing on multiple directions, including Orikhiv and Velyka Novosilka, which are located in eastern Zaporizhzhia Oblast and western Donetsk Oblast, respectively. By 11 June, Ukraine had liberated Makarivka, Neskuchne, Blahodatne, Storozheve, and Novodarivka.
 
 ## Order of battle
 
@@ -243,6 +248,11 @@ Irregular civilian volunteers (militia)
 
 ## References
 ## References[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
 [object Object]
 [object Object]
 [object Object]

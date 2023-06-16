@@ -1,7 +1,7 @@
 ---
 subject: Siege of Mariupol
 shortDescription: Siege in the Russian invasion of Ukraine
-description: The siege of Mariupol began on 24 February 2022 and lasted until 20
+description: The Siege of Mariupol began on 24 February 2022 and lasted until 20
   May, as part of the Russian invasion of Ukraine. It saw fighting between the
   Russian Armed Forces (alongside the Donetsk People's Republic People's
   Militia) and the Ukrainian Armed Forces for control over Mariupol. Lasting for
@@ -11,15 +11,15 @@ description: The siege of Mariupol began on 24 February 2022 and lasted until 20
   remaining in the city surrendered at the Azovstal Iron and Steel Works on 20
   May 2022, after they were ordered to cease fighting.
 author: Wikipedia
-pubDate: 2022-02-19
+pubDate: 2023-06-27
 img: /FileMitropolitskaya.jpg
 ---
 
-The **siege of Mariupol** began on 24 February 2022 and lasted until 20 May, as part of the Russian invasion of Ukraine. It saw fighting between the Russian Armed Forces (alongside the Donetsk People's Republic People's Militia) and the Ukrainian Armed Forces for control over Mariupol. Lasting for almost three months, the siege ended in a victory for Russia and the Donetsk People's Republic, as Ukraine lost control of the city amidst Russia's eastern Ukraine offensive and southern Ukraine offensive; all Ukrainian troops remaining in the city surrendered at the Azovstal Iron and Steel Works on 20 May 2022, after they were ordered to cease fighting.
+The **Siege of Mariupol** began on 24 February 2022 and lasted until 20 May, as part of the Russian invasion of Ukraine. It saw fighting between the Russian Armed Forces (alongside the Donetsk People's Republic People's Militia) and the Ukrainian Armed Forces for control over Mariupol. Lasting for almost three months, the siege ended in a victory for Russia and the Donetsk People's Republic, as Ukraine lost control of the city amidst Russia's eastern Ukraine offensive and southern Ukraine offensive; all Ukrainian troops remaining in the city surrendered at the Azovstal Iron and Steel Works on 20 May 2022, after they were ordered to cease fighting.
 
-Mariupol is located in Ukraine's Donetsk Oblast, and following the siege, it was initially controlled by the Donetsk People's Republic, supported by occupying Russian troops. However, it was later subjected to Russia's annexation of southeastern Ukraine, and remains under direct Russian control.
+Mariupol is located in Ukraine's Donetsk Oblast, and following the siege, it was initially controlled by the Donetsk People's Republic, supported by occupying Russian troops. However, it was later subjected to Russia's unilateral annexation of southeastern Ukraine, and remains under direct Russian control.
 
-During the Russian siege, the Red Cross described the situation in Mariupol as "apocalyptic" while Ukrainian authorities accused Russia of engineering a major humanitarian crisis in the city. Ukrainian officials reported that approximately 25,000 civilians had been killed and that at least 95% of the city had been destroyed during the fighting, primarily by large-scale Russian bombardments. In an official statement, the United Nations confirmed the deaths of 1,348 civilians in Mariupol, but warned that true death toll was likely thousands higher while also reporting that 90% of the city's residential buildings had been damaged or completely destroyed.
+During the Russian siege, the Red Cross described the situation in Mariupol as "apocalyptic" while Ukrainian authorities accused Russia of engineering a major humanitarian crisis in the city. Ukrainian officials reported that approximately 25,000 civilians had been killed and that at least 95% of the city had been destroyed during the fighting, primarily by large-scale Russian bombardments. In an official statement, the United Nations confirmed the deaths of 1,348 civilians in Mariupol, but warned that the true death toll was likely thousands higher while also reporting that 90% of the city's residential buildings had been damaged or completely destroyed.
 
 Major combat operations in the city effectively ended on 16 May 2022 after Ukraine's Azov Regiment surrendered at the Azovstal Iron and Steel Works. Some Western reports described the siege as a pyrrhic or symbolic Russian victory, with others noting that the humanitarian impact of the takeover was a "reputational disaster" for Russia. However, the loss of the city has also been seen as a significant defeat for Ukraine.
 
@@ -113,7 +113,7 @@ An order by Russia's Ministry of Defence to surrender, lay down arms and evacuat
 
 On 21 March, the first helicopter evacuation from Azovstal took place as eight or nine seriously wounded soldiers were evacuated, including the wounded Major Nadtochii. Two Ukrainian Mil Mi-8 helicopters flew into Azovstal as part of "Operation Air Corridor", carrying a special forces team with crates of Stinger and Javelin missiles, as well as a satellite internet system. "Operation Air Corridor" lasted until 7 April, when one helicopter was shot down, followed by the shooting down of a second helicopter that was sent as part of rescue efforts to search for survivors of the first downing. The four special forces members on board the second helicopter were killed, along with the helicopter's crew. Ukraine claimed 85 seriously wounded soldiers were evacuated as part of "Operation Air Corridor" during seven missions to the Azovstal plant to resupply or deliver reinforcements using some 16 Mi-8s, in pairs or fours, two of which were shot down, along with the rescue helicopter, according to Major General Kyrylo Budanov. In contrast, Ukrainian president Zelensky stated 90 percent of helicopter pilots sent to Mariupol during the course of the siege to resupply Ukrainian forces and evacuate the wounded were lost due to Russian air-defenses. According to Russia, one Ukrainian Mil Mi-8 helicopter was shot down on 28 March, as it was heading to Mariupol to evacuate the leaders of the Azov Regiment. In addition, Russia reported its forces shot down two more Ukrainian Mi-8s on 5 April, as they were once again attempting to evacuate Azov commanders. *The Times* later reported, after interviewing Ukrainian participants, that from 21 March to 11 May, 15 helicopters and 45 aircrew made nearly 30 attempted rescue missions delivering ammunition, equipment, medicine and evacuating wounded, with 6 flights being successful and 3 helicopters shot down with 23 killed in one crash.
 
-On 23 March, local authorities, including the mayor, left the city due to the deteriorating situation. The following day, Russian forces entered central Mariupol, seizing the Orthodox Church of the Intercession of the Mother of God. The city administration alleged that Russians were trying to demoralize residents by publicly shouting claims of Russian victories, including statements that Odessa had been captured.
+On 23 March, local authorities, including the mayor, left the city due to the deteriorating situation. The following day, Russian forces entered central Mariupol, seizing the Orthodox Church of the Intercession of the Mother of God. The city administration alleged that Russians were trying to demoralize residents by publicly shouting claims of Russian victories, including statements that Odesa had been captured.
 
 Vadym Boychenko said on 27 March that while Mariupol was still under Ukrainian control, Russian forces had entered deep into the city and that the city's population needed a "complete evacuation". By this point, Ukrainian soldiers had run out of food and clean drinking water, and an analyst believed that Ukrainian forces would not be able to fight on beyond a few days. However, Ukrainian officers refused to evacuate from the city, as they did not want to abandon their wounded and dead soldiers and civilians. The "Club 8bit" computer museum was destroyed.
 
@@ -215,6 +215,9 @@ On 6 June 2022, Ukrainian Deputy Minister of Healthcare Ihor Kuzin warned agains
 Mayor Boychenko said on 11 June that there was an outbreak of cholera in the city as sanitation systems were broken and corpses were rotting in the streets.
 
 Medical officials in Ukraine and Russia have cautioned that cholera could spread beyond Mariupol, with Russian government officials in oblasts bordering Ukraine establishing labs to treat cholera. Ukrainian epidemiologist Liudmyla Mukharska warned that the outbreak could spread throughout the rest of the Donbas, and that outbreaks of intestinal infections, dysentery, salmonellosis, and hepatitis A and E were possible. Other epidemiologists said that due to rotations of Russian soldiers fighting in Ukraine and the deportation of Ukrainians to filtration camps within Russia, the spread of the cholera outbreak to Russia was inevitable.
+
+### Ukrainian missile strikes
+In May 2023, the Ukrainian military began launching long-range missile strikes on Russian positions in Mariupol, who had started to turn the city and the surrounding villages into a military-logistics hub. On 26 May, the Ukrainians claimed that they had killed 250 Russian soldiers in a strike on the Azovstal Steelworks, with another 200 killed the previous week. On 29 May, the Ukrainians claimed to have again struck Mariupol, this time hitting the Yalta Health Center, with 650 Russian soldiers claimed to have been housed there. They claimed to have killed 100 Russians and wounded over 400 in the attack.
 
 ## Casualties
 
@@ -348,6 +351,8 @@ Reporting in the state-controlled media in Russia presented the invasion as a li
  * Video posted on Twitter by a Ukrainian soldier in Mariupol – of shelling and damage in the city. 5 March 2022.
  * Video, Sergei Orlov, Deputy Mayor of Mariupol, alleges that on 5 March Russian forces targeted and shelled civilian gathering areas where people were preparing to evacuate the city. Channel 4 News, London.
 ## References[object Object]
+[object Object]
+[object Object]
 [object Object]
 [object Object]
 [object Object]
