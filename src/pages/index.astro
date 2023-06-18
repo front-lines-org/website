@@ -11,7 +11,7 @@ import dayjs from "dayjs";
 const posts = (await getCollection("blog"))
 .filter((e) => dayjs(e.data.pubDate).isBefore(dayjs().add(10, 'days')))
 .sort(
-  (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 ---
 
