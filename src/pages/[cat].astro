@@ -5,11 +5,10 @@ export function getStaticPaths() {
   return [
     {params: {cat: 'ukraine'}, props: {tags: ["Syrian civil war", "Syria", "the Battle of Aleppo and the Syrian Civil War", "Military operations of the Syrian civil war in 2016"]}},
     {params: {cat: 'africa'}},
-    {params: {cat: undefined }}
   ]
 }
 
-const { cat } = Astro.params;
+
 const { tags } = Astro.props;
 ---
 
