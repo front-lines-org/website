@@ -8,8 +8,8 @@ const { subject, description, pubDate, updatedDate, img, author, href } =
   Astro.props;
 ---
 
-<a class="row-span-2 col-span-2 p-3 hover:underline" href={href}>
-  <div class="relative">
+<a class="row-span-2 md:col-span-2 p-3 hover:underline min-h-[400px]" href={href}>
+  <div class="relative h-full">
     <div class="absolute h-full scrim-t w-full text-white">
       <h3
         class="text-md max-w-md mx-auto mt-9 font-bold text-center"
