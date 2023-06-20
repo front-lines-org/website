@@ -6,6 +6,14 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import IconButton from "../components/IconButton.astro";
 import { Icon } from "astro-icon";
 import Drawer from "../components/Drawer.astro";
+
+const isActive = (url: string, includeSubPaths: boolean) => {
+  return includeSubPaths ? Astro.url.pathname.startsWith(url) : Astro.url.pathname === url;
+}
+
+const getProps = (url: string, includeSubPaths = true) => {
+  return {href: url, class: `tab tab-bordered ${isActive(url, includeSubPaths) ? 'tab-active' : 'border-b-0'}`}
+}
 ---
 
 <style>
@@ -65,18 +73,18 @@ import Drawer from "../components/Drawer.astro";
               <Icon class="h-4 w-4" name="ic:baseline-format-list-bulleted" />
             </div></label
           >
-          <a class="tab tab-bordered tab-active">Frontpage</a>
-          <a class="tab tab-bordered border-b-0">Columns</a>
-          <a class="tab tab-bordered border-b-0">Ukraine</a>
-          <a class="tab tab-bordered border-b-0">Africa</a>
-          <a class="tab tab-bordered border-b-0">History</a>
-          <a class="tab tab-bordered border-b-0">Opinions</a>
-          <a class="tab tab-bordered border-b-0">Combat footage</a>
-          <a class="tab tab-bordered border-b-0">Live maps</a>
-          <a class="tab tab-bordered border-b-0">Asia</a>
-          <a class="tab tab-bordered border-b-0">News</a>
-          <a class="tab tab-bordered border-b-0">Opinions</a>
-          <a class="tab tab-bordered border-b-0">Sudan</a>
+          <a {...getProps("/", false)}>Frontpage</a>
+          <a {...getProps('/columns', false)}>Columns</a>
+          <a {...getProps('/ukraine', false)}>Ukraine</a>
+          <a {...getProps('/africa', false)}>Africa</a>
+          <a {...getProps('/history', false)}>History</a>
+          <a {...getProps('/opinions', false)}>Opinions</a>
+          <a {...getProps('/combat-footage', false)}>Combat footage</a>
+          <a {...getProps('/live-maps', false)}>Live maps</a>
+          <a {...getProps('/asia', false)}>Asia</a>
+          <a {...getProps('/news', false)}>News</a>
+          <a {...getProps('/opinions', false)}>Opinions</a>
+          <a {...getProps('/sudan', false)}>Sudan</a>
         </div>
         <!-- End with tabs -->
         <slot />

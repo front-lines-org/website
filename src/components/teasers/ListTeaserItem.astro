@@ -8,7 +8,6 @@ type Props = CollectionEntry<"blog">["data"] & {href: string};
 const { subject, description, pubDate, updatedDate, img, author, href } = Astro.props;
 
 const date = dayjs(pubDate);
-console.log(img);
 ---
 
 <a href={href} class="flex gap-3 border-b-2 pb-3 mt-3 mb-3">

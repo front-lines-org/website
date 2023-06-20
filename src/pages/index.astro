@@ -1,70 +1,10 @@
 ---
-import { getCollection } from "astro:content";
-import LargeTeaser from "../components/teasers/LargeTeaser.astro";
-import ListTeaser from "../components/teasers/ListTeaser.astro";
-import NewsSummary from "../components/teasers/NewsSummary.astro";
-import SmallTeaser from "../components/teasers/SmallTeaser.astro";
 import DefaultLayout from "../layouts/DefaultLayout.astro";
-import ListTeaserItem from "../components/teasers/ListTeaserItem.astro";
-import dayjs from "dayjs";
+import FrontPage from "../components/FrontPage.astro";
 
-const posts = (await getCollection("blog"))
-  .filter((e) => dayjs(e.data.pubDate).isBefore(dayjs().add(9, "days")))
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
-<style>
-  @import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;500;700;900&family=Merriweather:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
-
-  .scrim-t {
-    background-image: linear-gradient(
-      to bottom,
-      rgba(0, 0, 0, 0.4),
-      rgba(0, 0, 0, 0.2),
-      rgba(0, 0, 0, 0)
-    );
-  }
-</style>
 
 <DefaultLayout>
-  <div
-    class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 relative mt-3 divide-x-2 divide-y divide-y-reverse"
-  >
-    {
-      posts.filter((post) => post.data.img)[6] && (
-        <LargeTeaser
-          href={`${posts.filter((post) => post.data.img)[6].collection}/${
-            posts.filter((post) => post.data.img)[6].slug
-          }`}
-          {...posts.filter((post) => post.data.img)[6].data}
-        />
-      )
-    }
-    <SmallTeaser
-      type="Analysis"
-      href={`${posts.filter((post) => post.data.img)[5].collection}/${
-        posts.filter((post) => post.data.img)[5].slug
-      }`}
-      {...posts[5].data}
-    />
-    <NewsSummary>
-      {
-        posts
-          .slice(6, 16)
-          .map((post) => (
-            <ListTeaserItem
-              href={`${post.collection}/${post.slug}`}
-              {...post.data}
-              {...post.data}
-            />
-          ))
-      }
-    </NewsSummary>
-    <SmallTeaser
-      type="LIVE REPORT"
-      href={`${posts[7].collection}/${posts[7].slug}`}
-      {...posts[7].data}
-    />
-    <ListTeaser />
-  </div>
+ <FrontPage />
 </DefaultLayout>
