@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import Img  from "../Img.astro";
+import Img from "../Img.astro";
 
 type Props = CollectionEntry<"blog">["data"] & { href: string };
 
@@ -8,7 +8,10 @@ const { subject, description, pubDate, updatedDate, img, author, href } =
   Astro.props;
 ---
 
-<a class="row-span-2 md:col-span-2 p-3 hover:underline min-h-[400px]" href={href}>
+<a
+  class="row-span-2 md:col-span-2 p-3 hover:underline min-h-[400px]"
+  href={href}
+  transition:name="head-img">
   <div class="relative h-full">
     <div class="absolute h-full scrim-t w-full text-white">
       <h3
@@ -25,16 +28,19 @@ const { subject, description, pubDate, updatedDate, img, author, href } =
     </div>
     {
       img && !img.endsWith(".svg") && (
+        <div  class="relative -z-10">
         <Img
-          attributes={{
-            img: {
-              class: "w-full h-full aspect-square object-cover",
-            },
-          }}
-          src={img}
-          alt="test"
-        />
-      )
-    }
+            attributes={{
+              img: {
+                class: "w-full h-full object-cover",
+              },
+            }}
+            
+            src={img}
+            alt="test"
+          />
+          </div>
+        )
+      }
   </div>
 </a>

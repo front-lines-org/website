@@ -13,7 +13,7 @@ type Props = { tags?: string[] };
 const {tags} = Astro.props;
 
 const posts = (await getCollection("blog"))
-  .filter((e) => dayjs(e.data.pubDate).isBefore(dayjs().add(14, "days")))
+  .filter((e) => dayjs(e.data.pubDate).isBefore(dayjs().subtract(61, "days")))
   .filter((e) => tags ? tags.some((tag) => e.data.tags?.includes(tag)) : true)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
@@ -85,6 +85,7 @@ const posts = (await getCollection("blog"))
               .map((post) => (
                 <ListTeaserItem
                   href={`${post.collection}/${post.slug}`}
+                  {...post.data}
                   {...post.data}
                   {...post.data}
                 />

@@ -12,7 +12,7 @@ const { subject, description, pubDate, updatedDate, img, author } = Astro.props;
 <DefaultLayout>
   <article class="prose prose-sm mt-9 mx-2 sm:mx-auto">
     <h3 class="not-prose text-primary font-black">Ukraine</h3>
-    <h1 class="title">{subject}</h1>
+    <h1 class="title" transition:name="title">{subject}</h1>
     <p class="font-bold">
       {description}
     </p>
@@ -35,7 +35,9 @@ const { subject, description, pubDate, updatedDate, img, author } = Astro.props;
         )
       }
     </p>
-    {img && !img.endsWith('.svg') && <Img src={img} alt="" />}
+    <div transition:name="head-img">
+      {img && !img.endsWith('.svg') && <Img src={img} alt="" />}
+    </div>
     <slot />
   </article>
 </DefaultLayout>

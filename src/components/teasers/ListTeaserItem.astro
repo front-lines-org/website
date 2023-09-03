@@ -11,7 +11,8 @@ const date = dayjs(pubDate);
 ---
 
 <a href={href} class="flex gap-3 border-b-2 pb-3 mt-3 mb-3">
-    {img && !img.endsWith('.svg') && <Img
+    {img && !img.endsWith('.svg') && <div>
+    <Img
       src={img}
       alt="test"
       width={65}
@@ -21,7 +22,7 @@ const date = dayjs(pubDate);
         style: "min-width: 65px; height: 100%;"
       }
     }}
-    />}
+    /></div>}
     <div>
       <div class="font-light text-xs">{date.format('HH-mm')}</div>
       <div>
